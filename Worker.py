@@ -52,7 +52,7 @@ class Worker(object):
             return
 
         log.debug("sending poison-pill to child")
-        self.pipe_child.send(None)
+        self.pipe_parent.send(None)
 
         log.debug("waiting on child to die")
         self.subprocess.join()
@@ -80,12 +80,12 @@ class Worker(object):
             if not pipe_child.poll():
 
                 # has the boss died at his desk?
-                if (datetime.datetime.now() - time_last_request).total_seconds() > max_timeout_sec:
-                    log.info("giving up waiting for more work after %.2f sec", max_timeout_sec)
-                    break
+                # if (datetime.datetime.now() - time_last_request).total_seconds() > max_timeout_sec:
+                #     log.info("giving up waiting for more work after %.2f sec", max_timeout_sec)
+                #     break
                 
-                # no work for us yet...sleep for a second then re-check
-                time.sleep(1)
+                # no work for us yet...sleep for a bit then re-check
+                time.sleep(0.1)
                 continue
 
             # get the next work item
