@@ -16,8 +16,8 @@ def main(argv):
     parser.add_argument("--timeout-sec", type=int, default=5, help="how long logger should wait before exiting")
     args = parser.parse_args(argv)
 
+    # logging framework only accepts caps
     args.log_level = args.log_level.upper()
-    print("using log_level %s" % args.log_level)
 
     log.debug("this line won't appear anywhere, because the log isn't configured yet")
     applog = Applog(
