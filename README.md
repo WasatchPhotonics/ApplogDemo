@@ -10,7 +10,20 @@ Python 2.7 baseline, and has not yet sought a replacement.
 
 # Invocation
 
-  $ python main.py --help
+    $ python main.py --help
+    usage: main.py [-h] [--logfile LOGFILE] [--stdout] [--log-level LOG_LEVEL]
+                   [--timeout-sec TIMEOUT_SEC]
+
+    Simple demonstration of Applog in multi-process application
+
+    optional arguments:
+      -h, --help            show this help message and exit
+      --logfile LOGFILE     path to logfile
+      --stdout              also log to stdout
+      --log-level LOG_LEVEL
+                            log level (DEBUG, INFO, WARN, CRITICAL)
+      --timeout-sec TIMEOUT_SEC
+                            how long logger should wait before exiting
 
 See the included "sample.log" for a sample logfile generated.
 
