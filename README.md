@@ -26,6 +26,17 @@ It is not 100% guaranteed that the order of messages in the logfile will match t
 the order in which they were generated, especially in multi-process environments.
 Sort the logfile to be guaranteed of sequence (the timestamps should be correct).
 
+## Exceptions
+
+The Worker math is deliberately designed to occasionally throw exceptions, so
+you can see how those appear in the logfile.  If you are in an 'except' block and
+want to log the current exception, just add "exc_info=1" to your log line:
+
+    try:
+        might_throw()
+    except:
+        log.debug("caught exception", exc_info=1)
+
 ## Object arguments
 
 If you send an object as an argument to the logger, like this:
