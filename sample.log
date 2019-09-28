@@ -1,1040 +1,1032 @@
-2019-09-28 15:51:53,012 MainProcess root DEBUG    Applog.configure_process: configured log for process 65183
-2019-09-28 15:51:53,014 MainProcess __main__ DEBUG    Applog instantiated
-2019-09-28 15:51:53,015 MainProcess __main__ DEBUG    instantiating SampleApp
-2019-09-28 15:51:53,015 MainProcess SampleApp DEBUG    App instantiated
-2019-09-28 15:51:53,015 MainProcess __main__ DEBUG    running SampleApp
-2019-09-28 15:51:53,015 MainProcess SampleApp DEBUG    making workers
-2019-09-28 15:51:53,016 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,016 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,027 Process-2  root DEBUG    Applog.configure_process: configured log for process 65185
-2019-09-28 15:51:53,027 Process-2  root DEBUG    Applog.configure_process: configured log for process 65185
-2019-09-28 15:51:53,030 Process-2  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,030 Process-2  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,030 Process-3  root DEBUG    Applog.configure_process: configured log for process 65186
-2019-09-28 15:51:53,030 Process-3  root DEBUG    Applog.configure_process: configured log for process 65186
-2019-09-28 15:51:53,034 Process-3  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,034 Process-3  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,038 Process-4  root DEBUG    Applog.configure_process: configured log for process 65187
-2019-09-28 15:51:53,038 Process-4  root DEBUG    Applog.configure_process: configured log for process 65187
-2019-09-28 15:51:53,041 Process-4  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,041 Process-4  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,042 Process-5  root DEBUG    Applog.configure_process: configured log for process 65188
-2019-09-28 15:51:53,042 Process-5  root DEBUG    Applog.configure_process: configured log for process 65188
-2019-09-28 15:51:53,049 Process-5  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,049 Process-5  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,046 Process-6  root DEBUG    Applog.configure_process: configured log for process 65189
-2019-09-28 15:51:53,046 Process-6  root DEBUG    Applog.configure_process: configured log for process 65189
-2019-09-28 15:51:53,051 Process-6  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,051 Process-6  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,051 Process-7  root DEBUG    Applog.configure_process: configured log for process 65190
-2019-09-28 15:51:53,051 Process-7  root DEBUG    Applog.configure_process: configured log for process 65190
-2019-09-28 15:51:53,056 Process-7  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,056 Process-7  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,059 Process-8  root DEBUG    Applog.configure_process: configured log for process 65191
-2019-09-28 15:51:53,059 Process-8  root DEBUG    Applog.configure_process: configured log for process 65191
-2019-09-28 15:51:53,065 Process-8  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,065 Process-8  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,065 Process-9  root DEBUG    Applog.configure_process: configured log for process 65192
-2019-09-28 15:51:53,065 Process-9  root DEBUG    Applog.configure_process: configured log for process 65192
-2019-09-28 15:51:53,068 Process-9  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,068 Process-9  Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,019 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,019 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,070 Process-10 root DEBUG    Applog.configure_process: configured log for process 65193
-2019-09-28 15:51:53,024 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,070 Process-10 root DEBUG    Applog.configure_process: configured log for process 65193
-2019-09-28 15:51:53,074 Process-11 root DEBUG    Applog.configure_process: configured log for process 65194
-2019-09-28 15:51:53,025 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,075 Process-10 Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,074 Process-11 root DEBUG    Applog.configure_process: configured log for process 65194
-2019-09-28 15:51:53,075 Process-10 Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,077 Process-10 Worker DEBUG    processing request 35
-2019-09-28 15:51:53,076 Process-11 Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,077 Process-10 Worker DEBUG    processing request 35
-2019-09-28 15:51:53,076 Process-11 Worker INFO     subprocess_main: started
-2019-09-28 15:51:53,077 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,029 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,078 Process-11 Worker DEBUG    processing request 24
-2019-09-28 15:51:53,077 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,030 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,078 Process-11 Worker DEBUG    processing request 24
-2019-09-28 15:51:53,035 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,078 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,036 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,078 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,040 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,041 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,045 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,046 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,052 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,054 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,058 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,059 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,063 MainProcess Worker DEBUG    creating subprocess
-2019-09-28 15:51:53,064 MainProcess Worker DEBUG    starting subprocess
-2019-09-28 15:51:53,067 MainProcess SampleApp DEBUG    assigning work
-2019-09-28 15:51:53,068 MainProcess Worker DEBUG    sending work to child: 17
-2019-09-28 15:51:53,069 MainProcess Worker DEBUG    sending work to child: 18
-2019-09-28 15:51:53,069 MainProcess Worker DEBUG    sending work to child: 4
-2019-09-28 15:51:53,069 MainProcess Worker DEBUG    sending work to child: 44
-2019-09-28 15:51:53,069 MainProcess Worker DEBUG    sending work to child: 46
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 43
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 24
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 19
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 34
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 49
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 26
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 35
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 4
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 2
-2019-09-28 15:51:53,070 MainProcess Worker DEBUG    sending work to child: 18
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 8
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 14
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 9
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 29
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 35
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 8
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 18
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 45
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 39
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 0
-2019-09-28 15:51:53,071 MainProcess Worker DEBUG    sending work to child: 23
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 6
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 22
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 18
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 27
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 31
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 0
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 14
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 28
-2019-09-28 15:51:53,072 MainProcess Worker DEBUG    sending work to child: 5
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 40
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 49
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 49
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 2
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 18
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 36
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 40
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 50
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 3
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 45
-2019-09-28 15:51:53,073 MainProcess Worker DEBUG    sending work to child: 17
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 12
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 21
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 34
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 39
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 22
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 23
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 46
-2019-09-28 15:51:53,074 MainProcess Worker DEBUG    sending work to child: 17
-2019-09-28 15:51:53,075 MainProcess Worker DEBUG    sending work to child: 32
-2019-09-28 15:51:53,075 MainProcess Worker DEBUG    sending work to child: 32
-2019-09-28 15:51:53,075 MainProcess Worker DEBUG    sending work to child: 14
-2019-09-28 15:51:53,075 MainProcess Worker DEBUG    sending work to child: 29
-2019-09-28 15:51:53,075 MainProcess Worker DEBUG    sending work to child: 18
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 45
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 10
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 18
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 26
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 20
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 19
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 1
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 32
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 5
-2019-09-28 15:51:53,076 MainProcess Worker DEBUG    sending work to child: 23
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 28
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 34
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 19
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 48
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 37
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 46
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 22
-2019-09-28 15:51:53,077 MainProcess Worker DEBUG    sending work to child: 19
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 5
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 15
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 11
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 20
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 3
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 1
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 11
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 30
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 47
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 36
-2019-09-28 15:51:53,078 MainProcess Worker DEBUG    sending work to child: 19
-2019-09-28 15:51:53,079 MainProcess Worker DEBUG    sending work to child: 39
-2019-09-28 15:51:53,079 MainProcess Worker DEBUG    sending work to child: 13
-2019-09-28 15:51:53,079 MainProcess Worker DEBUG    sending work to child: 30
-2019-09-28 15:51:53,079 MainProcess Worker DEBUG    sending work to child: 36
-2019-09-28 15:51:53,079 MainProcess Worker DEBUG    sending work to child: 42
-2019-09-28 15:51:53,079 MainProcess Worker DEBUG    sending work to child: 12
-2019-09-28 15:51:53,080 MainProcess Worker DEBUG    sending work to child: 21
-2019-09-28 15:51:53,080 MainProcess Worker DEBUG    sending work to child: 39
-2019-09-28 15:51:53,080 MainProcess Worker DEBUG    sending work to child: 26
-2019-09-28 15:51:53,080 MainProcess Worker DEBUG    sending work to child: 42
-2019-09-28 15:51:53,080 MainProcess Worker DEBUG    sending work to child: 13
-2019-09-28 15:51:53,080 MainProcess Worker DEBUG    sending work to child: 13
-2019-09-28 15:51:53,080 MainProcess SampleApp DEBUG    waiting on responses (10 sec max)
-2019-09-28 15:51:53,080 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,186 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,187 Process-10 Worker DEBUG    sending response: (35, 0.16903085094570333)
-2019-09-28 15:51:53,187 Process-10 Worker DEBUG    sending response: (35, 0.16903085094570333)
-2019-09-28 15:51:53,189 Process-10 Worker DEBUG    processing request 45
-2019-09-28 15:51:53,189 Process-10 Worker DEBUG    processing request 45
-2019-09-28 15:51:53,189 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,189 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,286 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,288 MainProcess SampleApp DEBUG    got response: (35, 0.16903085094570333)
-2019-09-28 15:51:53,392 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,495 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,497 Process-11 Worker DEBUG    sending response: (24, 0.20412414523193148)
-2019-09-28 15:51:53,497 Process-11 Worker DEBUG    sending response: (24, 0.20412414523193148)
-2019-09-28 15:51:53,499 Process-11 Worker DEBUG    processing request 19
-2019-09-28 15:51:53,499 Process-11 Worker DEBUG    processing request 19
-2019-09-28 15:51:53,499 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,499 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,600 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,601 MainProcess SampleApp DEBUG    got response: (24, 0.20412414523193148)
-2019-09-28 15:51:53,704 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,809 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,913 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:53,953 Process-10 Worker DEBUG    sending response: (45, 0.14907119849998599)
-2019-09-28 15:51:53,953 Process-10 Worker DEBUG    sending response: (45, 0.14907119849998599)
-2019-09-28 15:51:53,955 Process-10 Worker DEBUG    processing request 0
-2019-09-28 15:51:53,955 Process-10 Worker DEBUG    processing request 0
-2019-09-28 15:51:53,955 Process-10 Worker ERROR    error processing request
+2019-09-28 16:03:08,984 MainProcess root DEBUG    Applog.configure_process: configured log for process 65239
+2019-09-28 16:03:08,986 MainProcess __main__ DEBUG    Applog instantiated
+2019-09-28 16:03:08,986 MainProcess __main__ DEBUG    instantiating SampleApp
+2019-09-28 16:03:08,986 MainProcess SampleApp DEBUG    App instantiated
+2019-09-28 16:03:08,986 MainProcess __main__ DEBUG    running SampleApp
+2019-09-28 16:03:08,987 MainProcess SampleApp DEBUG    making workers
+2019-09-28 16:03:08,987 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:08,987 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:08,990 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:08,991 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:08,997 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:08,999 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:08,996 Process-2  root DEBUG    Applog.configure_process: configured log for process 65241
+2019-09-28 16:03:08,996 Process-2  root DEBUG    Applog.configure_process: configured log for process 65241
+2019-09-28 16:03:08,998 Process-2  Worker INFO     subprocess_main: started
+2019-09-28 16:03:08,998 Process-2  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,001 Process-3  root DEBUG    Applog.configure_process: configured log for process 65242
+2019-09-28 16:03:09,002 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:09,001 Process-3  root DEBUG    Applog.configure_process: configured log for process 65242
+2019-09-28 16:03:09,002 Process-3  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,003 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:09,002 Process-3  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,007 Process-4  root DEBUG    Applog.configure_process: configured log for process 65243
+2019-09-28 16:03:09,012 Process-5  root DEBUG    Applog.configure_process: configured log for process 65244
+2019-09-28 16:03:09,017 Process-6  root DEBUG    Applog.configure_process: configured log for process 65245
+2019-09-28 16:03:09,006 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:09,021 Process-7  root DEBUG    Applog.configure_process: configured log for process 65246
+2019-09-28 16:03:09,007 Process-4  root DEBUG    Applog.configure_process: configured log for process 65243
+2019-09-28 16:03:09,012 Process-5  root DEBUG    Applog.configure_process: configured log for process 65244
+2019-09-28 16:03:09,017 Process-6  root DEBUG    Applog.configure_process: configured log for process 65245
+2019-09-28 16:03:09,007 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:09,021 Process-7  root DEBUG    Applog.configure_process: configured log for process 65246
+2019-09-28 16:03:09,008 Process-4  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,015 Process-5  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,019 Process-6  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,027 Process-8  root DEBUG    Applog.configure_process: configured log for process 65247
+2019-09-28 16:03:09,023 Process-7  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,015 Process-5  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,008 Process-4  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,010 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:09,023 Process-7  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,019 Process-6  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,027 Process-8  root DEBUG    Applog.configure_process: configured log for process 65247
+2019-09-28 16:03:09,034 Process-9  root DEBUG    Applog.configure_process: configured log for process 65248
+2019-09-28 16:03:09,040 Process-10 root DEBUG    Applog.configure_process: configured log for process 65249
+2019-09-28 16:03:09,010 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:09,029 Process-8  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,034 Process-9  root DEBUG    Applog.configure_process: configured log for process 65248
+2019-09-28 16:03:09,040 Process-10 root DEBUG    Applog.configure_process: configured log for process 65249
+2019-09-28 16:03:09,045 Process-11 root DEBUG    Applog.configure_process: configured log for process 65250
+2019-09-28 16:03:09,015 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:09,029 Process-8  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,036 Process-9  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,042 Process-10 Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,045 Process-11 root DEBUG    Applog.configure_process: configured log for process 65250
+2019-09-28 16:03:09,017 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:09,036 Process-9  Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,042 Process-10 Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,046 Process-11 Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,023 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:09,045 Process-10 Worker DEBUG    processing request 29
+2019-09-28 16:03:09,046 Process-11 Worker INFO     subprocess_main: started
+2019-09-28 16:03:09,024 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:09,045 Process-10 Worker DEBUG    processing request 29
+2019-09-28 16:03:09,049 Process-11 Worker DEBUG    processing request 39
+2019-09-28 16:03:09,045 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,049 Process-11 Worker DEBUG    processing request 39
+2019-09-28 16:03:09,045 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,049 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,049 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,028 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:09,029 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:09,033 MainProcess Worker DEBUG    creating subprocess
+2019-09-28 16:03:09,034 MainProcess Worker DEBUG    starting subprocess
+2019-09-28 16:03:09,038 MainProcess SampleApp DEBUG    assigning work
+2019-09-28 16:03:09,039 MainProcess Worker DEBUG    sending work to child: 15
+2019-09-28 16:03:09,039 MainProcess Worker DEBUG    sending work to child: 29
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 23
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 41
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 27
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 7
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 2
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 6
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 10
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 29
+2019-09-28 16:03:09,040 MainProcess Worker DEBUG    sending work to child: 44
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 11
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 39
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 41
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 11
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 9
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 43
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 3
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 24
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 16
+2019-09-28 16:03:09,041 MainProcess Worker DEBUG    sending work to child: 48
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 21
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 26
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 27
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 32
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 15
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 3
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 1
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 25
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 29
+2019-09-28 16:03:09,042 MainProcess Worker DEBUG    sending work to child: 14
+2019-09-28 16:03:09,043 MainProcess Worker DEBUG    sending work to child: 7
+2019-09-28 16:03:09,043 MainProcess Worker DEBUG    sending work to child: 10
+2019-09-28 16:03:09,043 MainProcess Worker DEBUG    sending work to child: 22
+2019-09-28 16:03:09,043 MainProcess Worker DEBUG    sending work to child: 28
+2019-09-28 16:03:09,043 MainProcess Worker DEBUG    sending work to child: 26
+2019-09-28 16:03:09,043 MainProcess Worker DEBUG    sending work to child: 2
+2019-09-28 16:03:09,043 MainProcess Worker DEBUG    sending work to child: 31
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 20
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 11
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 29
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 2
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 2
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 14
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 33
+2019-09-28 16:03:09,044 MainProcess Worker DEBUG    sending work to child: 11
+2019-09-28 16:03:09,045 MainProcess Worker DEBUG    sending work to child: 46
+2019-09-28 16:03:09,045 MainProcess Worker DEBUG    sending work to child: 38
+2019-09-28 16:03:09,045 MainProcess Worker DEBUG    sending work to child: 14
+2019-09-28 16:03:09,045 MainProcess Worker DEBUG    sending work to child: 50
+2019-09-28 16:03:09,045 MainProcess Worker DEBUG    sending work to child: 15
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 39
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 49
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 34
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 41
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 38
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 44
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 36
+2019-09-28 16:03:09,046 MainProcess Worker DEBUG    sending work to child: 44
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 35
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 35
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 45
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 36
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 26
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 43
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 29
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 7
+2019-09-28 16:03:09,047 MainProcess Worker DEBUG    sending work to child: 45
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 17
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 21
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 30
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 20
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 23
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 12
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 30
+2019-09-28 16:03:09,048 MainProcess Worker DEBUG    sending work to child: 14
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 49
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 7
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 33
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 34
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 1
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 26
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 47
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 41
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 47
+2019-09-28 16:03:09,049 MainProcess Worker DEBUG    sending work to child: 33
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 17
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 17
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 0
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 36
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 21
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 12
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 26
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 18
+2019-09-28 16:03:09,050 MainProcess Worker DEBUG    sending work to child: 0
+2019-09-28 16:03:09,051 MainProcess Worker DEBUG    sending work to child: 22
+2019-09-28 16:03:09,051 MainProcess Worker DEBUG    sending work to child: 14
+2019-09-28 16:03:09,051 MainProcess Worker DEBUG    sending work to child: 18
+2019-09-28 16:03:09,051 MainProcess Worker DEBUG    sending work to child: 4
+2019-09-28 16:03:09,051 MainProcess Worker DEBUG    sending work to child: 48
+2019-09-28 16:03:09,051 MainProcess SampleApp DEBUG    waiting on responses (10 sec max)
+2019-09-28 16:03:09,051 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,101 Process-2  Worker DEBUG    processing request 10
+2019-09-28 16:03:09,101 Process-2  Worker DEBUG    processing request 10
+2019-09-28 16:03:09,101 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,101 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,105 Process-3  Worker DEBUG    processing request 6
+2019-09-28 16:03:09,105 Process-3  Worker DEBUG    processing request 6
+2019-09-28 16:03:09,105 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,105 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,111 Process-4  Worker DEBUG    processing request 15
+2019-09-28 16:03:09,111 Process-4  Worker DEBUG    processing request 15
+2019-09-28 16:03:09,112 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,112 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,117 Process-5  Worker DEBUG    processing request 41
+2019-09-28 16:03:09,117 Process-5  Worker DEBUG    processing request 41
+2019-09-28 16:03:09,118 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,118 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,123 Process-6  Worker DEBUG    processing request 21
+2019-09-28 16:03:09,123 Process-6  Worker DEBUG    processing request 21
+2019-09-28 16:03:09,123 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,123 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,126 Process-7  Worker DEBUG    processing request 27
+2019-09-28 16:03:09,126 Process-7  Worker DEBUG    processing request 27
+2019-09-28 16:03:09,126 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,126 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,133 Process-8  Worker DEBUG    processing request 26
+2019-09-28 16:03:09,133 Process-8  Worker DEBUG    processing request 26
+2019-09-28 16:03:09,133 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,133 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,139 Process-9  Worker DEBUG    processing request 43
+2019-09-28 16:03:09,139 Process-9  Worker DEBUG    processing request 43
+2019-09-28 16:03:09,139 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,139 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,157 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,252 Process-3  Worker DEBUG    sending response: (6, 0.40824829046386296)
+2019-09-28 16:03:09,252 Process-3  Worker DEBUG    sending response: (6, 0.40824829046386296)
+2019-09-28 16:03:09,253 Process-3  Worker DEBUG    processing request 11
+2019-09-28 16:03:09,253 Process-3  Worker DEBUG    processing request 11
+2019-09-28 16:03:09,253 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,253 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,262 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,263 MainProcess SampleApp DEBUG    got response: (6, 0.40824829046386296)
+2019-09-28 16:03:09,314 Process-7  Worker DEBUG    sending response: (27, 0.19245008972987526)
+2019-09-28 16:03:09,314 Process-7  Worker DEBUG    sending response: (27, 0.19245008972987526)
+2019-09-28 16:03:09,316 Process-7  Worker DEBUG    processing request 29
+2019-09-28 16:03:09,316 Process-7  Worker DEBUG    processing request 29
+2019-09-28 16:03:09,316 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,316 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,368 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,369 MainProcess SampleApp DEBUG    got response: (27, 0.19245008972987526)
+2019-09-28 16:03:09,384 Process-8  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:09,384 Process-8  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:09,385 Process-8  Worker DEBUG    processing request 2
+2019-09-28 16:03:09,385 Process-8  Worker DEBUG    processing request 2
+2019-09-28 16:03:09,385 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,385 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,461 Process-10 Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:09,461 Process-10 Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:09,462 Process-10 Worker DEBUG    processing request 23
+2019-09-28 16:03:09,462 Process-10 Worker DEBUG    processing request 23
+2019-09-28 16:03:09,462 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,462 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,474 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,474 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
+2019-09-28 16:03:09,475 MainProcess SampleApp DEBUG    got response: (29, 0.18569533817705186)
+2019-09-28 16:03:09,503 Process-2  Worker DEBUG    sending response: (10, 0.31622776601683794)
+2019-09-28 16:03:09,503 Process-2  Worker DEBUG    sending response: (10, 0.31622776601683794)
+2019-09-28 16:03:09,504 Process-2  Worker DEBUG    processing request 16
+2019-09-28 16:03:09,504 Process-2  Worker DEBUG    processing request 16
+2019-09-28 16:03:09,504 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,504 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,555 Process-9  Worker DEBUG    sending response: (43, 0.15249857033260467)
+2019-09-28 16:03:09,555 Process-9  Worker DEBUG    sending response: (43, 0.15249857033260467)
+2019-09-28 16:03:09,556 Process-9  Worker DEBUG    processing request 24
+2019-09-28 16:03:09,556 Process-9  Worker DEBUG    processing request 24
+2019-09-28 16:03:09,556 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,556 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,566 Process-7  Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:09,566 Process-7  Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:09,567 Process-7  Worker DEBUG    processing request 50
+2019-09-28 16:03:09,567 Process-7  Worker DEBUG    processing request 50
+2019-09-28 16:03:09,567 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,567 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,577 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,577 MainProcess SampleApp DEBUG    got response: (10, 0.31622776601683794)
+2019-09-28 16:03:09,578 MainProcess SampleApp DEBUG    got response: (29, 0.18569533817705186)
+2019-09-28 16:03:09,578 MainProcess SampleApp DEBUG    got response: (43, 0.15249857033260467)
+2019-09-28 16:03:09,639 Process-11 Worker DEBUG    sending response: (39, 0.16012815380508713)
+2019-09-28 16:03:09,639 Process-11 Worker DEBUG    sending response: (39, 0.16012815380508713)
+2019-09-28 16:03:09,641 Process-11 Worker DEBUG    processing request 41
+2019-09-28 16:03:09,641 Process-11 Worker DEBUG    processing request 41
+2019-09-28 16:03:09,641 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,641 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,679 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,679 MainProcess SampleApp DEBUG    got response: (39, 0.16012815380508713)
+2019-09-28 16:03:09,699 Process-10 Worker DEBUG    sending response: (23, 0.20851441405707474)
+2019-09-28 16:03:09,699 Process-10 Worker DEBUG    sending response: (23, 0.20851441405707474)
+2019-09-28 16:03:09,700 Process-10 Worker DEBUG    processing request 2
+2019-09-28 16:03:09,700 Process-10 Worker DEBUG    processing request 2
+2019-09-28 16:03:09,700 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,700 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,709 Process-3  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:09,709 Process-3  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:09,710 Process-3  Worker DEBUG    processing request 3
+2019-09-28 16:03:09,710 Process-3  Worker DEBUG    processing request 3
+2019-09-28 16:03:09,710 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,710 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,784 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,785 MainProcess SampleApp DEBUG    got response: (11, 0.30151134457776363)
+2019-09-28 16:03:09,785 MainProcess SampleApp DEBUG    got response: (23, 0.20851441405707474)
+2019-09-28 16:03:09,797 Process-6  Worker DEBUG    sending response: (21, 0.21821789023599236)
+2019-09-28 16:03:09,797 Process-6  Worker DEBUG    sending response: (21, 0.21821789023599236)
+2019-09-28 16:03:09,798 Process-6  Worker DEBUG    processing request 26
+2019-09-28 16:03:09,798 Process-6  Worker DEBUG    processing request 26
+2019-09-28 16:03:09,798 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,798 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,835 Process-7  Worker DEBUG    sending response: (50, 0.1414213562373095)
+2019-09-28 16:03:09,835 Process-7  Worker DEBUG    sending response: (50, 0.1414213562373095)
+2019-09-28 16:03:09,836 Process-7  Worker DEBUG    processing request 30
+2019-09-28 16:03:09,836 Process-7  Worker DEBUG    processing request 30
+2019-09-28 16:03:09,836 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,836 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,890 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,890 MainProcess SampleApp DEBUG    got response: (21, 0.21821789023599236)
+2019-09-28 16:03:09,890 MainProcess SampleApp DEBUG    got response: (50, 0.1414213562373095)
+2019-09-28 16:03:09,950 Process-5  Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:09,950 Process-5  Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:09,951 Process-5  Worker DEBUG    processing request 27
+2019-09-28 16:03:09,951 Process-5  Worker DEBUG    processing request 27
+2019-09-28 16:03:09,951 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,951 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:09,995 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:09,995 MainProcess SampleApp DEBUG    got response: (41, 0.15617376188860607)
+2019-09-28 16:03:10,010 Process-8  Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,010 Process-8  Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,011 Process-8  Worker DEBUG    processing request 34
+2019-09-28 16:03:10,011 Process-8  Worker DEBUG    processing request 34
+2019-09-28 16:03:10,011 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,011 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,037 Process-2  Worker DEBUG    sending response: (16, 0.25)
+2019-09-28 16:03:10,037 Process-2  Worker DEBUG    sending response: (16, 0.25)
+2019-09-28 16:03:10,039 Process-2  Worker DEBUG    processing request 14
+2019-09-28 16:03:10,039 Process-2  Worker DEBUG    processing request 14
+2019-09-28 16:03:10,039 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,039 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,075 Process-6  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:10,075 Process-6  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:10,076 Process-6  Worker DEBUG    processing request 29
+2019-09-28 16:03:10,076 Process-6  Worker DEBUG    processing request 29
+2019-09-28 16:03:10,076 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,076 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,097 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,097 MainProcess SampleApp DEBUG    got response: (16, 0.25)
+2019-09-28 16:03:10,098 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
+2019-09-28 16:03:10,098 MainProcess SampleApp DEBUG    got response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,102 Process-4  Worker DEBUG    sending response: (15, 0.25819888974716115)
+2019-09-28 16:03:10,102 Process-4  Worker DEBUG    sending response: (15, 0.25819888974716115)
+2019-09-28 16:03:10,103 Process-4  Worker DEBUG    processing request 7
+2019-09-28 16:03:10,103 Process-4  Worker DEBUG    processing request 7
+2019-09-28 16:03:10,103 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,103 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,184 Process-9  Worker DEBUG    sending response: (24, 0.20412414523193148)
+2019-09-28 16:03:10,184 Process-9  Worker DEBUG    sending response: (24, 0.20412414523193148)
+2019-09-28 16:03:10,185 Process-9  Worker DEBUG    processing request 1
+2019-09-28 16:03:10,185 Process-9  Worker DEBUG    processing request 1
+2019-09-28 16:03:10,185 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,185 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,202 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,203 MainProcess SampleApp DEBUG    got response: (15, 0.25819888974716115)
+2019-09-28 16:03:10,203 MainProcess SampleApp DEBUG    got response: (24, 0.20412414523193148)
+2019-09-28 16:03:10,224 Process-10 Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,224 Process-10 Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,225 Process-10 Worker DEBUG    processing request 29
+2019-09-28 16:03:10,225 Process-10 Worker DEBUG    processing request 29
+2019-09-28 16:03:10,225 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,225 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,261 Process-3  Worker DEBUG    sending response: (3, 0.5773502691896257)
+2019-09-28 16:03:10,261 Process-3  Worker DEBUG    sending response: (3, 0.5773502691896257)
+2019-09-28 16:03:10,262 Process-3  Worker DEBUG    processing request 48
+2019-09-28 16:03:10,262 Process-3  Worker DEBUG    processing request 48
+2019-09-28 16:03:10,263 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,263 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,302 Process-9  Worker DEBUG    sending response: (1, 1.0)
+2019-09-28 16:03:10,302 Process-9  Worker DEBUG    sending response: (1, 1.0)
+2019-09-28 16:03:10,303 Process-9  Worker DEBUG    processing request 2
+2019-09-28 16:03:10,303 Process-9  Worker DEBUG    processing request 2
+2019-09-28 16:03:10,303 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,303 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,307 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,307 MainProcess SampleApp DEBUG    got response: (3, 0.5773502691896257)
+2019-09-28 16:03:10,308 MainProcess SampleApp DEBUG    got response: (1, 1.0)
+2019-09-28 16:03:10,308 MainProcess SampleApp DEBUG    got response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,367 Process-7  Worker DEBUG    sending response: (30, 0.18257418583505539)
+2019-09-28 16:03:10,367 Process-7  Worker DEBUG    sending response: (30, 0.18257418583505539)
+2019-09-28 16:03:10,368 Process-7  Worker DEBUG    processing request 14
+2019-09-28 16:03:10,368 Process-7  Worker DEBUG    processing request 14
+2019-09-28 16:03:10,368 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,368 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,413 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,413 MainProcess SampleApp DEBUG    got response: (30, 0.18257418583505539)
+2019-09-28 16:03:10,440 Process-4  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:10,440 Process-4  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:10,441 Process-4  Worker DEBUG    processing request 44
+2019-09-28 16:03:10,441 Process-4  Worker DEBUG    processing request 44
+2019-09-28 16:03:10,441 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,441 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,456 Process-2  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:10,456 Process-2  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:10,457 Process-2  Worker DEBUG    processing request 2
+2019-09-28 16:03:10,457 Process-2  Worker DEBUG    processing request 2
+2019-09-28 16:03:10,457 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,457 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,471 Process-5  Worker DEBUG    sending response: (27, 0.19245008972987526)
+2019-09-28 16:03:10,471 Process-5  Worker DEBUG    sending response: (27, 0.19245008972987526)
+2019-09-28 16:03:10,470 Process-9  Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,470 Process-9  Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,471 Process-9  Worker DEBUG    processing request 38
+2019-09-28 16:03:10,471 Process-9  Worker DEBUG    processing request 38
+2019-09-28 16:03:10,471 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,471 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,472 Process-5  Worker DEBUG    processing request 7
+2019-09-28 16:03:10,472 Process-5  Worker DEBUG    processing request 7
+2019-09-28 16:03:10,472 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,472 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,506 Process-3  Worker DEBUG    sending response: (48, 0.14433756729740643)
+2019-09-28 16:03:10,506 Process-3  Worker DEBUG    sending response: (48, 0.14433756729740643)
+2019-09-28 16:03:10,507 Process-3  Worker DEBUG    processing request 3
+2019-09-28 16:03:10,507 Process-3  Worker DEBUG    processing request 3
+2019-09-28 16:03:10,507 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,507 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,517 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,517 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
+2019-09-28 16:03:10,517 MainProcess SampleApp DEBUG    got response: (48, 0.14433756729740643)
+2019-09-28 16:03:10,517 MainProcess SampleApp DEBUG    got response: (7, 0.37796447300922725)
+2019-09-28 16:03:10,518 MainProcess SampleApp DEBUG    got response: (27, 0.19245008972987526)
+2019-09-28 16:03:10,518 MainProcess SampleApp DEBUG    got response: (2, 0.7071067811865476)
+2019-09-28 16:03:10,603 Process-10 Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:10,603 Process-10 Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:10,604 Process-10 Worker DEBUG    processing request 32
+2019-09-28 16:03:10,604 Process-10 Worker DEBUG    processing request 32
+2019-09-28 16:03:10,604 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,604 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,622 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,623 MainProcess SampleApp DEBUG    got response: (29, 0.18569533817705186)
+2019-09-28 16:03:10,638 Process-11 Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:10,638 Process-11 Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:10,639 Process-11 Worker DEBUG    processing request 9
+2019-09-28 16:03:10,639 Process-11 Worker DEBUG    processing request 9
+2019-09-28 16:03:10,639 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,639 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,710 Process-7  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:10,710 Process-7  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:10,712 Process-7  Worker DEBUG    processing request 26
+2019-09-28 16:03:10,712 Process-7  Worker DEBUG    processing request 26
+2019-09-28 16:03:10,712 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,712 Process-7  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,726 Process-4  Worker DEBUG    sending response: (44, 0.15075567228888181)
+2019-09-28 16:03:10,726 Process-4  Worker DEBUG    sending response: (44, 0.15075567228888181)
+2019-09-28 16:03:10,727 Process-4  Worker DEBUG    processing request 11
+2019-09-28 16:03:10,727 Process-4  Worker DEBUG    processing request 11
+2019-09-28 16:03:10,727 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,727 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,727 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,728 MainProcess SampleApp DEBUG    got response: (44, 0.15075567228888181)
+2019-09-28 16:03:10,728 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
+2019-09-28 16:03:10,728 MainProcess SampleApp DEBUG    got response: (41, 0.15617376188860607)
+2019-09-28 16:03:10,796 Process-8  Worker DEBUG    sending response: (34, 0.17149858514250885)
+2019-09-28 16:03:10,796 Process-8  Worker DEBUG    sending response: (34, 0.17149858514250885)
+2019-09-28 16:03:10,797 Process-8  Worker DEBUG    processing request 35
+2019-09-28 16:03:10,797 Process-8  Worker DEBUG    processing request 35
+2019-09-28 16:03:10,797 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,797 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,833 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,834 MainProcess SampleApp DEBUG    got response: (34, 0.17149858514250885)
+2019-09-28 16:03:10,865 Process-6  Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:10,865 Process-6  Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:10,866 Process-6  Worker DEBUG    processing request 20
+2019-09-28 16:03:10,866 Process-6  Worker DEBUG    processing request 20
+2019-09-28 16:03:10,866 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,866 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,901 Process-10 Worker DEBUG    sending response: (32, 0.1767766952966369)
+2019-09-28 16:03:10,901 Process-10 Worker DEBUG    sending response: (32, 0.1767766952966369)
+2019-09-28 16:03:10,901 Process-10 Worker DEBUG    processing request 25
+2019-09-28 16:03:10,901 Process-10 Worker DEBUG    processing request 25
+2019-09-28 16:03:10,901 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,901 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,920 Process-7  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:10,920 Process-7  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:10,938 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:10,938 MainProcess SampleApp DEBUG    got response: (29, 0.18569533817705186)
+2019-09-28 16:03:10,938 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
+2019-09-28 16:03:10,939 MainProcess SampleApp DEBUG    got response: (32, 0.1767766952966369)
+2019-09-28 16:03:10,970 Process-8  Worker DEBUG    sending response: (35, 0.16903085094570333)
+2019-09-28 16:03:10,970 Process-8  Worker DEBUG    sending response: (35, 0.16903085094570333)
+2019-09-28 16:03:10,972 Process-8  Worker DEBUG    processing request 45
+2019-09-28 16:03:10,972 Process-8  Worker DEBUG    processing request 45
+2019-09-28 16:03:10,972 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:10,972 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,041 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,042 MainProcess SampleApp DEBUG    got response: (35, 0.16903085094570333)
+2019-09-28 16:03:11,118 Process-2  Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:11,118 Process-2  Worker DEBUG    sending response: (2, 0.7071067811865476)
+2019-09-28 16:03:11,119 Process-2  Worker DEBUG    processing request 20
+2019-09-28 16:03:11,119 Process-2  Worker DEBUG    processing request 20
+2019-09-28 16:03:11,119 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,119 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,148 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,148 MainProcess SampleApp DEBUG    got response: (2, 0.7071067811865476)
+2019-09-28 16:03:11,155 Process-4  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:11,155 Process-4  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:11,156 Process-4  Worker DEBUG    processing request 15
+2019-09-28 16:03:11,156 Process-4  Worker DEBUG    processing request 15
+2019-09-28 16:03:11,156 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,156 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,168 Process-11 Worker DEBUG    sending response: (9, 0.3333333333333333)
+2019-09-28 16:03:11,168 Process-11 Worker DEBUG    sending response: (9, 0.3333333333333333)
+2019-09-28 16:03:11,169 Process-11 Worker DEBUG    processing request 29
+2019-09-28 16:03:11,169 Process-11 Worker DEBUG    processing request 29
+2019-09-28 16:03:11,169 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,169 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,246 Process-9  Worker DEBUG    sending response: (38, 0.16222142113076252)
+2019-09-28 16:03:11,246 Process-9  Worker DEBUG    sending response: (38, 0.16222142113076252)
+2019-09-28 16:03:11,248 Process-9  Worker DEBUG    processing request 36
+2019-09-28 16:03:11,248 Process-9  Worker DEBUG    processing request 36
+2019-09-28 16:03:11,248 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,248 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,253 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,254 MainProcess SampleApp DEBUG    got response: (11, 0.30151134457776363)
+2019-09-28 16:03:11,254 MainProcess SampleApp DEBUG    got response: (38, 0.16222142113076252)
+2019-09-28 16:03:11,255 MainProcess SampleApp DEBUG    got response: (9, 0.3333333333333333)
+2019-09-28 16:03:11,268 Process-6  Worker DEBUG    sending response: (20, 0.223606797749979)
+2019-09-28 16:03:11,268 Process-6  Worker DEBUG    sending response: (20, 0.223606797749979)
+2019-09-28 16:03:11,269 Process-6  Worker DEBUG    processing request 47
+2019-09-28 16:03:11,269 Process-6  Worker DEBUG    processing request 47
+2019-09-28 16:03:11,269 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,269 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,309 Process-5  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:11,309 Process-5  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:11,311 Process-5  Worker DEBUG    processing request 11
+2019-09-28 16:03:11,311 Process-5  Worker DEBUG    processing request 11
+2019-09-28 16:03:11,311 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,311 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,326 Process-3  Worker DEBUG    sending response: (3, 0.5773502691896257)
+2019-09-28 16:03:11,326 Process-3  Worker DEBUG    sending response: (3, 0.5773502691896257)
+2019-09-28 16:03:11,326 Process-3  Worker DEBUG    processing request 22
+2019-09-28 16:03:11,326 Process-3  Worker DEBUG    processing request 22
+2019-09-28 16:03:11,327 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,327 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,357 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,358 MainProcess SampleApp DEBUG    got response: (3, 0.5773502691896257)
+2019-09-28 16:03:11,359 MainProcess SampleApp DEBUG    got response: (7, 0.37796447300922725)
+2019-09-28 16:03:11,359 MainProcess SampleApp DEBUG    got response: (20, 0.223606797749979)
+2019-09-28 16:03:11,460 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,493 Process-6  Worker DEBUG    sending response: (47, 0.14586499149789456)
+2019-09-28 16:03:11,493 Process-6  Worker DEBUG    sending response: (47, 0.14586499149789456)
+2019-09-28 16:03:11,494 Process-6  Worker DEBUG    processing request 22
+2019-09-28 16:03:11,494 Process-6  Worker DEBUG    processing request 22
+2019-09-28 16:03:11,494 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,494 Process-6  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,510 Process-8  Worker DEBUG    sending response: (45, 0.14907119849998599)
+2019-09-28 16:03:11,510 Process-8  Worker DEBUG    sending response: (45, 0.14907119849998599)
+2019-09-28 16:03:11,511 Process-8  Worker DEBUG    processing request 17
+2019-09-28 16:03:11,511 Process-8  Worker DEBUG    processing request 17
+2019-09-28 16:03:11,511 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,511 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,566 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,567 MainProcess SampleApp DEBUG    got response: (47, 0.14586499149789456)
+2019-09-28 16:03:11,567 MainProcess SampleApp DEBUG    got response: (45, 0.14907119849998599)
+2019-09-28 16:03:11,586 Process-10 Worker DEBUG    sending response: (25, 0.2)
+2019-09-28 16:03:11,586 Process-10 Worker DEBUG    sending response: (25, 0.2)
+2019-09-28 16:03:11,588 Process-10 Worker DEBUG    processing request 33
+2019-09-28 16:03:11,588 Process-10 Worker DEBUG    processing request 33
+2019-09-28 16:03:11,588 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,588 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,607 Process-2  Worker DEBUG    sending response: (20, 0.223606797749979)
+2019-09-28 16:03:11,607 Process-2  Worker DEBUG    sending response: (20, 0.223606797749979)
+2019-09-28 16:03:11,608 Process-2  Worker DEBUG    processing request 11
+2019-09-28 16:03:11,608 Process-2  Worker DEBUG    processing request 11
+2019-09-28 16:03:11,608 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,608 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,639 Process-4  Worker DEBUG    sending response: (15, 0.25819888974716115)
+2019-09-28 16:03:11,639 Process-4  Worker DEBUG    sending response: (15, 0.25819888974716115)
+2019-09-28 16:03:11,640 Process-4  Worker DEBUG    processing request 10
+2019-09-28 16:03:11,640 Process-4  Worker DEBUG    processing request 10
+2019-09-28 16:03:11,641 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,641 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,660 Process-9  Worker DEBUG    sending response: (36, 0.16666666666666666)
+2019-09-28 16:03:11,660 Process-9  Worker DEBUG    sending response: (36, 0.16666666666666666)
+2019-09-28 16:03:11,661 Process-9  Worker DEBUG    processing request 35
+2019-09-28 16:03:11,661 Process-9  Worker DEBUG    processing request 35
+2019-09-28 16:03:11,662 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,662 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,672 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,673 MainProcess SampleApp DEBUG    got response: (20, 0.223606797749979)
+2019-09-28 16:03:11,673 MainProcess SampleApp DEBUG    got response: (15, 0.25819888974716115)
+2019-09-28 16:03:11,673 MainProcess SampleApp DEBUG    got response: (36, 0.16666666666666666)
+2019-09-28 16:03:11,673 MainProcess SampleApp DEBUG    got response: (25, 0.2)
+2019-09-28 16:03:11,778 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,854 Process-6  Worker DEBUG    sending response: (22, 0.21320071635561044)
+2019-09-28 16:03:11,854 Process-6  Worker DEBUG    sending response: (22, 0.21320071635561044)
+2019-09-28 16:03:11,868 Process-2  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:11,868 Process-2  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:11,869 Process-2  Worker DEBUG    processing request 49
+2019-09-28 16:03:11,869 Process-2  Worker DEBUG    processing request 49
+2019-09-28 16:03:11,869 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,869 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,883 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,884 MainProcess SampleApp DEBUG    got response: (11, 0.30151134457776363)
+2019-09-28 16:03:11,884 MainProcess SampleApp DEBUG    got response: (22, 0.21320071635561044)
+2019-09-28 16:03:11,978 Process-10 Worker DEBUG    sending response: (33, 0.17407765595569782)
+2019-09-28 16:03:11,978 Process-10 Worker DEBUG    sending response: (33, 0.17407765595569782)
+2019-09-28 16:03:11,979 Process-10 Worker DEBUG    processing request 47
+2019-09-28 16:03:11,979 Process-10 Worker DEBUG    processing request 47
+2019-09-28 16:03:11,979 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,979 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,988 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:11,988 Process-8  Worker DEBUG    sending response: (17, 0.24253562503633297)
+2019-09-28 16:03:11,988 Process-8  Worker DEBUG    sending response: (17, 0.24253562503633297)
+2019-09-28 16:03:11,989 MainProcess SampleApp DEBUG    got response: (17, 0.24253562503633297)
+2019-09-28 16:03:11,990 MainProcess SampleApp DEBUG    got response: (33, 0.17407765595569782)
+2019-09-28 16:03:11,990 Process-8  Worker DEBUG    processing request 41
+2019-09-28 16:03:11,990 Process-8  Worker DEBUG    processing request 41
+2019-09-28 16:03:11,990 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:11,990 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,088 Process-3  Worker DEBUG    sending response: (22, 0.21320071635561044)
+2019-09-28 16:03:12,088 Process-3  Worker DEBUG    sending response: (22, 0.21320071635561044)
+2019-09-28 16:03:12,089 Process-3  Worker DEBUG    processing request 28
+2019-09-28 16:03:12,089 Process-3  Worker DEBUG    processing request 28
+2019-09-28 16:03:12,089 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,089 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,093 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,093 MainProcess SampleApp DEBUG    got response: (22, 0.21320071635561044)
+2019-09-28 16:03:12,096 Process-5  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:12,096 Process-5  Worker DEBUG    sending response: (11, 0.30151134457776363)
+2019-09-28 16:03:12,098 Process-5  Worker DEBUG    processing request 14
+2019-09-28 16:03:12,098 Process-5  Worker DEBUG    processing request 14
+2019-09-28 16:03:12,098 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,098 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,158 Process-11 Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:12,158 Process-11 Worker DEBUG    sending response: (29, 0.18569533817705186)
+2019-09-28 16:03:12,159 Process-11 Worker DEBUG    processing request 41
+2019-09-28 16:03:12,159 Process-11 Worker DEBUG    processing request 41
+2019-09-28 16:03:12,160 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,160 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,175 Process-2  Worker DEBUG    sending response: (49, 0.14285714285714285)
+2019-09-28 16:03:12,175 Process-2  Worker DEBUG    sending response: (49, 0.14285714285714285)
+2019-09-28 16:03:12,176 Process-2  Worker DEBUG    processing request 38
+2019-09-28 16:03:12,176 Process-2  Worker DEBUG    processing request 38
+2019-09-28 16:03:12,176 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,176 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,193 Process-4  Worker DEBUG    sending response: (10, 0.31622776601683794)
+2019-09-28 16:03:12,193 Process-4  Worker DEBUG    sending response: (10, 0.31622776601683794)
+2019-09-28 16:03:12,194 Process-4  Worker DEBUG    processing request 14
+2019-09-28 16:03:12,194 Process-4  Worker DEBUG    processing request 14
+2019-09-28 16:03:12,194 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,194 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,198 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,198 MainProcess SampleApp DEBUG    got response: (49, 0.14285714285714285)
+2019-09-28 16:03:12,198 MainProcess SampleApp DEBUG    got response: (10, 0.31622776601683794)
+2019-09-28 16:03:12,199 MainProcess SampleApp DEBUG    got response: (11, 0.30151134457776363)
+2019-09-28 16:03:12,199 MainProcess SampleApp DEBUG    got response: (29, 0.18569533817705186)
+2019-09-28 16:03:12,302 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,407 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,438 Process-8  Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:12,438 Process-8  Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:12,439 Process-8  Worker DEBUG    processing request 14
+2019-09-28 16:03:12,439 Process-8  Worker DEBUG    processing request 14
+2019-09-28 16:03:12,439 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,439 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,460 Process-9  Worker DEBUG    sending response: (35, 0.16903085094570333)
+2019-09-28 16:03:12,460 Process-9  Worker DEBUG    sending response: (35, 0.16903085094570333)
+2019-09-28 16:03:12,461 Process-9  Worker DEBUG    processing request 36
+2019-09-28 16:03:12,461 Process-9  Worker DEBUG    processing request 36
+2019-09-28 16:03:12,461 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,461 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,513 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,514 MainProcess SampleApp DEBUG    got response: (41, 0.15617376188860607)
+2019-09-28 16:03:12,514 MainProcess SampleApp DEBUG    got response: (35, 0.16903085094570333)
+2019-09-28 16:03:12,617 Process-10 Worker DEBUG    sending response: (47, 0.14586499149789456)
+2019-09-28 16:03:12,617 Process-10 Worker DEBUG    sending response: (47, 0.14586499149789456)
+2019-09-28 16:03:12,618 Process-10 Worker DEBUG    processing request 17
+2019-09-28 16:03:12,618 Process-10 Worker DEBUG    processing request 17
+2019-09-28 16:03:12,618 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,618 Process-10 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,619 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,620 MainProcess SampleApp DEBUG    got response: (47, 0.14586499149789456)
+2019-09-28 16:03:12,628 Process-8  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:12,628 Process-8  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:12,629 Process-8  Worker DEBUG    processing request 18
+2019-09-28 16:03:12,629 Process-8  Worker DEBUG    processing request 18
+2019-09-28 16:03:12,629 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,629 Process-8  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,721 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,722 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
+2019-09-28 16:03:12,755 Process-8  Worker DEBUG    sending response: (18, 0.2357022603955158)
+2019-09-28 16:03:12,755 Process-8  Worker DEBUG    sending response: (18, 0.2357022603955158)
+2019-09-28 16:03:12,779 Process-5  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:12,779 Process-5  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:12,780 Process-5  Worker DEBUG    processing request 44
+2019-09-28 16:03:12,780 Process-5  Worker DEBUG    processing request 44
+2019-09-28 16:03:12,780 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,780 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,827 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,828 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
+2019-09-28 16:03:12,828 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
+2019-09-28 16:03:12,931 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:12,970 Process-3  Worker DEBUG    sending response: (28, 0.18898223650461363)
+2019-09-28 16:03:12,970 Process-3  Worker DEBUG    sending response: (28, 0.18898223650461363)
+2019-09-28 16:03:12,971 Process-3  Worker DEBUG    processing request 31
+2019-09-28 16:03:12,971 Process-3  Worker DEBUG    processing request 31
+2019-09-28 16:03:12,971 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:12,971 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,037 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,037 MainProcess SampleApp DEBUG    got response: (28, 0.18898223650461363)
+2019-09-28 16:03:13,081 Process-2  Worker DEBUG    sending response: (38, 0.16222142113076252)
+2019-09-28 16:03:13,081 Process-2  Worker DEBUG    sending response: (38, 0.16222142113076252)
+2019-09-28 16:03:13,082 Process-2  Worker DEBUG    processing request 7
+2019-09-28 16:03:13,082 Process-2  Worker DEBUG    processing request 7
+2019-09-28 16:03:13,082 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,082 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,118 Process-11 Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:13,118 Process-11 Worker DEBUG    sending response: (41, 0.15617376188860607)
+2019-09-28 16:03:13,119 Process-11 Worker DEBUG    processing request 44
+2019-09-28 16:03:13,119 Process-11 Worker DEBUG    processing request 44
+2019-09-28 16:03:13,119 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,119 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,121 Process-4  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:13,121 Process-4  Worker DEBUG    sending response: (14, 0.2672612419124244)
+2019-09-28 16:03:13,122 Process-4  Worker DEBUG    processing request 15
+2019-09-28 16:03:13,122 Process-4  Worker DEBUG    processing request 15
+2019-09-28 16:03:13,122 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,122 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,141 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,141 MainProcess SampleApp DEBUG    got response: (38, 0.16222142113076252)
+2019-09-28 16:03:13,141 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
+2019-09-28 16:03:13,142 MainProcess SampleApp DEBUG    got response: (41, 0.15617376188860607)
+2019-09-28 16:03:13,176 Process-9  Worker DEBUG    sending response: (36, 0.16666666666666666)
+2019-09-28 16:03:13,176 Process-9  Worker DEBUG    sending response: (36, 0.16666666666666666)
+2019-09-28 16:03:13,177 Process-9  Worker DEBUG    processing request 23
+2019-09-28 16:03:13,177 Process-9  Worker DEBUG    processing request 23
+2019-09-28 16:03:13,177 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,177 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,246 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,246 MainProcess SampleApp DEBUG    got response: (36, 0.16666666666666666)
+2019-09-28 16:03:13,351 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,382 Process-2  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:13,382 Process-2  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:13,384 Process-2  Worker DEBUG    processing request 0
+2019-09-28 16:03:13,384 Process-2  Worker DEBUG    processing request 0
+2019-09-28 16:03:13,384 Process-2  Worker ERROR    error processing request
 Traceback (most recent call last):
   File "/Users/mzieg/work/code/ApplogDemo/Worker.py", line 103, in subprocess_main
     value = math.sqrt(request) / request
 ZeroDivisionError: float division by zero
-2019-09-28 15:51:53,955 Process-10 Worker ERROR    error processing request
+2019-09-28 16:03:13,384 Process-2  Worker ERROR    error processing request
 Traceback (most recent call last):
   File "/Users/mzieg/work/code/ApplogDemo/Worker.py", line 103, in subprocess_main
     value = math.sqrt(request) / request
 ZeroDivisionError: float division by zero
-2019-09-28 15:51:53,958 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:53,958 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,018 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,018 MainProcess SampleApp DEBUG    got response: (45, 0.14907119849998599)
-2019-09-28 15:51:54,036 Process-2  Worker DEBUG    processing request 17
-2019-09-28 15:51:54,036 Process-2  Worker DEBUG    processing request 17
-2019-09-28 15:51:54,036 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,036 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,037 Process-3  Worker DEBUG    processing request 46
-2019-09-28 15:51:54,037 Process-3  Worker DEBUG    processing request 46
-2019-09-28 15:51:54,037 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,037 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,044 Process-4  Worker DEBUG    processing request 18
-2019-09-28 15:51:54,044 Process-4  Worker DEBUG    processing request 18
-2019-09-28 15:51:54,045 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,045 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,051 Process-5  Worker DEBUG    processing request 39
-2019-09-28 15:51:54,051 Process-5  Worker DEBUG    processing request 39
-2019-09-28 15:51:54,051 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,051 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,054 Process-6  Worker DEBUG    processing request 34
-2019-09-28 15:51:54,054 Process-6  Worker DEBUG    processing request 34
-2019-09-28 15:51:54,054 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,054 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,060 Process-7  Worker DEBUG    processing request 43
-2019-09-28 15:51:54,060 Process-7  Worker DEBUG    processing request 43
-2019-09-28 15:51:54,060 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,060 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,068 Process-8  Worker DEBUG    processing request 44
-2019-09-28 15:51:54,068 Process-8  Worker DEBUG    processing request 44
-2019-09-28 15:51:54,068 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,068 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,071 Process-9  Worker DEBUG    processing request 14
-2019-09-28 15:51:54,071 Process-9  Worker DEBUG    processing request 14
-2019-09-28 15:51:54,071 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,071 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,103 Process-11 Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:54,103 Process-11 Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:54,104 Process-11 Worker DEBUG    processing request 49
-2019-09-28 15:51:54,104 Process-11 Worker DEBUG    processing request 49
-2019-09-28 15:51:54,104 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,104 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,122 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,123 MainProcess SampleApp DEBUG    got response: (19, 0.2294157338705618)
-2019-09-28 15:51:54,158 Process-5  Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:54,158 Process-5  Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:54,160 Process-5  Worker DEBUG    processing request 23
-2019-09-28 15:51:54,160 Process-5  Worker DEBUG    processing request 23
-2019-09-28 15:51:54,160 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,160 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,210 Process-10 Worker DEBUG    sending response: (0, None)
-2019-09-28 15:51:54,210 Process-10 Worker DEBUG    sending response: (0, None)
-2019-09-28 15:51:54,211 Process-10 Worker DEBUG    processing request 18
-2019-09-28 15:51:54,211 Process-10 Worker DEBUG    processing request 18
-2019-09-28 15:51:54,211 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,211 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,226 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,227 MainProcess SampleApp DEBUG    got response: (39, 0.16012815380508713)
-2019-09-28 15:51:54,228 MainProcess SampleApp DEBUG    got response: (0, None)
-2019-09-28 15:51:54,241 Process-8  Worker DEBUG    sending response: (44, 0.15075567228888181)
-2019-09-28 15:51:54,241 Process-8  Worker DEBUG    sending response: (44, 0.15075567228888181)
-2019-09-28 15:51:54,242 Process-8  Worker DEBUG    processing request 4
-2019-09-28 15:51:54,242 Process-8  Worker DEBUG    processing request 4
-2019-09-28 15:51:54,242 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,242 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,252 Process-11 Worker DEBUG    sending response: (49, 0.14285714285714285)
-2019-09-28 15:51:54,252 Process-11 Worker DEBUG    sending response: (49, 0.14285714285714285)
-2019-09-28 15:51:54,253 Process-11 Worker DEBUG    processing request 8
-2019-09-28 15:51:54,253 Process-11 Worker DEBUG    processing request 8
-2019-09-28 15:51:54,253 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,253 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,292 Process-4  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:54,292 Process-4  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:54,294 Process-4  Worker DEBUG    processing request 4
-2019-09-28 15:51:54,294 Process-4  Worker DEBUG    processing request 4
-2019-09-28 15:51:54,294 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,294 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,306 Process-3  Worker DEBUG    sending response: (46, 0.14744195615489714)
-2019-09-28 15:51:54,306 Process-3  Worker DEBUG    sending response: (46, 0.14744195615489714)
-2019-09-28 15:51:54,307 Process-3  Worker DEBUG    processing request 2
-2019-09-28 15:51:54,307 Process-3  Worker DEBUG    processing request 2
-2019-09-28 15:51:54,307 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,307 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,332 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,332 MainProcess SampleApp DEBUG    got response: (46, 0.14744195615489714)
-2019-09-28 15:51:54,332 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
-2019-09-28 15:51:54,332 MainProcess SampleApp DEBUG    got response: (44, 0.15075567228888181)
-2019-09-28 15:51:54,333 MainProcess SampleApp DEBUG    got response: (49, 0.14285714285714285)
-2019-09-28 15:51:54,435 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,452 Process-3  Worker DEBUG    sending response: (2, 0.7071067811865476)
-2019-09-28 15:51:54,452 Process-11 Worker DEBUG    sending response: (8, 0.3535533905932738)
-2019-09-28 15:51:54,452 Process-3  Worker DEBUG    sending response: (2, 0.7071067811865476)
-2019-09-28 15:51:54,452 Process-11 Worker DEBUG    sending response: (8, 0.3535533905932738)
-2019-09-28 15:51:54,453 Process-3  Worker DEBUG    processing request 18
-2019-09-28 15:51:54,453 Process-11 Worker DEBUG    processing request 6
-2019-09-28 15:51:54,453 Process-3  Worker DEBUG    processing request 18
-2019-09-28 15:51:54,453 Process-11 Worker DEBUG    processing request 6
-2019-09-28 15:51:54,453 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,454 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,453 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,454 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,482 Process-2  Worker DEBUG    sending response: (17, 0.24253562503633297)
-2019-09-28 15:51:54,482 Process-2  Worker DEBUG    sending response: (17, 0.24253562503633297)
-2019-09-28 15:51:54,484 Process-2  Worker DEBUG    processing request 26
-2019-09-28 15:51:54,484 Process-2  Worker DEBUG    processing request 26
-2019-09-28 15:51:54,484 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,484 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,505 Process-10 Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:54,505 Process-10 Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:54,506 Process-10 Worker DEBUG    processing request 50
-2019-09-28 15:51:54,506 Process-10 Worker DEBUG    processing request 50
-2019-09-28 15:51:54,506 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,506 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,540 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,540 MainProcess SampleApp DEBUG    got response: (17, 0.24253562503633297)
-2019-09-28 15:51:54,541 MainProcess SampleApp DEBUG    got response: (2, 0.7071067811865476)
-2019-09-28 15:51:54,541 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
-2019-09-28 15:51:54,541 MainProcess SampleApp DEBUG    got response: (8, 0.3535533905932738)
-2019-09-28 15:51:54,645 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,693 Process-7  Worker DEBUG    sending response: (43, 0.15249857033260467)
-2019-09-28 15:51:54,693 Process-7  Worker DEBUG    sending response: (43, 0.15249857033260467)
-2019-09-28 15:51:54,695 Process-7  Worker DEBUG    processing request 17
-2019-09-28 15:51:54,695 Process-7  Worker DEBUG    processing request 17
-2019-09-28 15:51:54,695 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,695 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,739 Process-11 Worker DEBUG    sending response: (6, 0.40824829046386296)
-2019-09-28 15:51:54,739 Process-11 Worker DEBUG    sending response: (6, 0.40824829046386296)
-2019-09-28 15:51:54,740 Process-11 Worker DEBUG    processing request 14
-2019-09-28 15:51:54,740 Process-11 Worker DEBUG    processing request 14
-2019-09-28 15:51:54,740 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,740 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,749 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,750 MainProcess SampleApp DEBUG    got response: (43, 0.15249857033260467)
-2019-09-28 15:51:54,750 MainProcess SampleApp DEBUG    got response: (6, 0.40824829046386296)
-2019-09-28 15:51:54,848 Process-9  Worker DEBUG    sending response: (14, 0.2672612419124244)
-2019-09-28 15:51:54,848 Process-9  Worker DEBUG    sending response: (14, 0.2672612419124244)
-2019-09-28 15:51:54,850 Process-9  Worker DEBUG    processing request 40
-2019-09-28 15:51:54,850 Process-9  Worker DEBUG    processing request 40
-2019-09-28 15:51:54,850 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,850 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,853 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,854 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
-2019-09-28 15:51:54,896 Process-8  Worker DEBUG    sending response: (4, 0.5)
-2019-09-28 15:51:54,896 Process-8  Worker DEBUG    sending response: (4, 0.5)
-2019-09-28 15:51:54,898 Process-8  Worker DEBUG    processing request 9
-2019-09-28 15:51:54,898 Process-8  Worker DEBUG    processing request 9
-2019-09-28 15:51:54,898 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,898 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,919 Process-5  Worker DEBUG    sending response: (23, 0.20851441405707474)
-2019-09-28 15:51:54,919 Process-5  Worker DEBUG    sending response: (23, 0.20851441405707474)
-2019-09-28 15:51:54,920 Process-5  Worker DEBUG    processing request 40
-2019-09-28 15:51:54,920 Process-5  Worker DEBUG    processing request 40
-2019-09-28 15:51:54,920 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,920 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,958 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:54,958 MainProcess SampleApp DEBUG    got response: (23, 0.20851441405707474)
-2019-09-28 15:51:54,959 MainProcess SampleApp DEBUG    got response: (4, 0.5)
-2019-09-28 15:51:54,978 Process-6  Worker DEBUG    sending response: (34, 0.17149858514250885)
-2019-09-28 15:51:54,978 Process-6  Worker DEBUG    sending response: (34, 0.17149858514250885)
-2019-09-28 15:51:54,979 Process-6  Worker DEBUG    processing request 8
-2019-09-28 15:51:54,979 Process-6  Worker DEBUG    processing request 8
-2019-09-28 15:51:54,979 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,979 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,990 Process-7  Worker DEBUG    sending response: (17, 0.24253562503633297)
-2019-09-28 15:51:54,990 Process-7  Worker DEBUG    sending response: (17, 0.24253562503633297)
-2019-09-28 15:51:54,991 Process-7  Worker DEBUG    processing request 18
-2019-09-28 15:51:54,991 Process-7  Worker DEBUG    processing request 18
-2019-09-28 15:51:54,991 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:54,991 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,062 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,063 MainProcess SampleApp DEBUG    got response: (34, 0.17149858514250885)
-2019-09-28 15:51:55,063 MainProcess SampleApp DEBUG    got response: (17, 0.24253562503633297)
-2019-09-28 15:51:55,096 Process-9  Worker DEBUG    sending response: (40, 0.15811388300841897)
-2019-09-28 15:51:55,096 Process-9  Worker DEBUG    sending response: (40, 0.15811388300841897)
-2019-09-28 15:51:55,097 Process-9  Worker DEBUG    processing request 39
-2019-09-28 15:51:55,097 Process-9  Worker DEBUG    processing request 39
-2019-09-28 15:51:55,097 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,097 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,124 Process-4  Worker DEBUG    sending response: (4, 0.5)
-2019-09-28 15:51:55,124 Process-4  Worker DEBUG    sending response: (4, 0.5)
-2019-09-28 15:51:55,125 Process-4  Worker DEBUG    processing request 22
-2019-09-28 15:51:55,125 Process-4  Worker DEBUG    processing request 22
-2019-09-28 15:51:55,125 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,125 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,167 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,168 MainProcess SampleApp DEBUG    got response: (4, 0.5)
-2019-09-28 15:51:55,168 MainProcess SampleApp DEBUG    got response: (40, 0.15811388300841897)
-2019-09-28 15:51:55,199 Process-11 Worker DEBUG    sending response: (14, 0.2672612419124244)
-2019-09-28 15:51:55,199 Process-11 Worker DEBUG    sending response: (14, 0.2672612419124244)
-2019-09-28 15:51:55,200 Process-11 Worker DEBUG    processing request 49
-2019-09-28 15:51:55,200 Process-11 Worker DEBUG    processing request 49
-2019-09-28 15:51:55,200 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,200 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,252 Process-8  Worker DEBUG    sending response: (9, 0.3333333333333333)
-2019-09-28 15:51:55,252 Process-8  Worker DEBUG    sending response: (9, 0.3333333333333333)
-2019-09-28 15:51:55,253 Process-8  Worker DEBUG    processing request 18
-2019-09-28 15:51:55,253 Process-8  Worker DEBUG    processing request 18
-2019-09-28 15:51:55,253 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,253 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,272 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,272 MainProcess SampleApp DEBUG    got response: (9, 0.3333333333333333)
-2019-09-28 15:51:55,273 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
-2019-09-28 15:51:55,292 Process-4  Worker DEBUG    sending response: (22, 0.21320071635561044)
-2019-09-28 15:51:55,292 Process-4  Worker DEBUG    sending response: (22, 0.21320071635561044)
-2019-09-28 15:51:55,293 Process-4  Worker DEBUG    processing request 28
-2019-09-28 15:51:55,293 Process-4  Worker DEBUG    processing request 28
-2019-09-28 15:51:55,293 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,293 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,300 Process-6  Worker DEBUG    sending response: (8, 0.3535533905932738)
-2019-09-28 15:51:55,300 Process-9  Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:55,300 Process-6  Worker DEBUG    sending response: (8, 0.3535533905932738)
-2019-09-28 15:51:55,300 Process-9  Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:55,301 Process-9  Worker DEBUG    processing request 32
-2019-09-28 15:51:55,301 Process-9  Worker DEBUG    processing request 32
-2019-09-28 15:51:55,301 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,301 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,301 Process-6  Worker DEBUG    processing request 35
-2019-09-28 15:51:55,301 Process-6  Worker DEBUG    processing request 35
-2019-09-28 15:51:55,301 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,301 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,321 Process-2  Worker DEBUG    sending response: (26, 0.19611613513818402)
-2019-09-28 15:51:55,321 Process-2  Worker DEBUG    sending response: (26, 0.19611613513818402)
-2019-09-28 15:51:55,322 Process-2  Worker DEBUG    processing request 27
-2019-09-28 15:51:55,322 Process-2  Worker DEBUG    processing request 27
-2019-09-28 15:51:55,322 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,322 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,358 Process-11 Worker DEBUG    sending response: (49, 0.14285714285714285)
-2019-09-28 15:51:55,358 Process-11 Worker DEBUG    sending response: (49, 0.14285714285714285)
-2019-09-28 15:51:55,359 Process-11 Worker DEBUG    processing request 23
-2019-09-28 15:51:55,359 Process-11 Worker DEBUG    processing request 23
-2019-09-28 15:51:55,359 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,359 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,371 Process-7  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:55,371 Process-7  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:55,373 Process-7  Worker DEBUG    processing request 18
-2019-09-28 15:51:55,373 Process-7  Worker DEBUG    processing request 18
-2019-09-28 15:51:55,373 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,373 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,377 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,377 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
-2019-09-28 15:51:55,377 MainProcess SampleApp DEBUG    got response: (22, 0.21320071635561044)
-2019-09-28 15:51:55,378 MainProcess SampleApp DEBUG    got response: (8, 0.3535533905932738)
-2019-09-28 15:51:55,378 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
-2019-09-28 15:51:55,378 MainProcess SampleApp DEBUG    got response: (39, 0.16012815380508713)
-2019-09-28 15:51:55,378 MainProcess SampleApp DEBUG    got response: (49, 0.14285714285714285)
-2019-09-28 15:51:55,409 Process-3  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:55,409 Process-3  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:55,410 Process-3  Worker DEBUG    processing request 29
-2019-09-28 15:51:55,410 Process-3  Worker DEBUG    processing request 29
-2019-09-28 15:51:55,410 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,410 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,415 Process-10 Worker DEBUG    sending response: (50, 0.1414213562373095)
-2019-09-28 15:51:55,415 Process-10 Worker DEBUG    sending response: (50, 0.1414213562373095)
-2019-09-28 15:51:55,416 Process-10 Worker DEBUG    processing request 32
-2019-09-28 15:51:55,416 Process-10 Worker DEBUG    processing request 32
-2019-09-28 15:51:55,416 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,416 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,422 Process-4  Worker DEBUG    sending response: (28, 0.18898223650461363)
-2019-09-28 15:51:55,422 Process-4  Worker DEBUG    sending response: (28, 0.18898223650461363)
-2019-09-28 15:51:55,423 Process-4  Worker DEBUG    processing request 36
-2019-09-28 15:51:55,423 Process-4  Worker DEBUG    processing request 36
-2019-09-28 15:51:55,423 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,423 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,480 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,481 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
-2019-09-28 15:51:55,481 MainProcess SampleApp DEBUG    got response: (28, 0.18898223650461363)
-2019-09-28 15:51:55,481 MainProcess SampleApp DEBUG    got response: (50, 0.1414213562373095)
-2019-09-28 15:51:55,571 Process-5  Worker DEBUG    sending response: (40, 0.15811388300841897)
-2019-09-28 15:51:55,571 Process-5  Worker DEBUG    sending response: (40, 0.15811388300841897)
-2019-09-28 15:51:55,572 Process-5  Worker DEBUG    processing request 45
-2019-09-28 15:51:55,572 Process-5  Worker DEBUG    processing request 45
-2019-09-28 15:51:55,572 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,572 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,585 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,586 MainProcess SampleApp DEBUG    got response: (40, 0.15811388300841897)
-2019-09-28 15:51:55,689 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,710 Process-9  Worker DEBUG    sending response: (32, 0.1767766952966369)
-2019-09-28 15:51:55,710 Process-9  Worker DEBUG    sending response: (32, 0.1767766952966369)
-2019-09-28 15:51:55,711 Process-9  Worker DEBUG    processing request 37
-2019-09-28 15:51:55,711 Process-9  Worker DEBUG    processing request 37
-2019-09-28 15:51:55,711 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,711 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,722 Process-2  Worker DEBUG    sending response: (27, 0.19245008972987526)
-2019-09-28 15:51:55,722 Process-2  Worker DEBUG    sending response: (27, 0.19245008972987526)
-2019-09-28 15:51:55,723 Process-2  Worker DEBUG    processing request 0
-2019-09-28 15:51:55,723 Process-2  Worker DEBUG    processing request 0
-2019-09-28 15:51:55,723 Process-2  Worker ERROR    error processing request
+2019-09-28 16:03:13,386 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,386 Process-2  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,422 Process-5  Worker DEBUG    sending response: (44, 0.15075567228888181)
+2019-09-28 16:03:13,422 Process-5  Worker DEBUG    sending response: (44, 0.15075567228888181)
+2019-09-28 16:03:13,423 Process-5  Worker DEBUG    processing request 7
+2019-09-28 16:03:13,423 Process-5  Worker DEBUG    processing request 7
+2019-09-28 16:03:13,423 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,423 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,455 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,455 MainProcess SampleApp DEBUG    got response: (7, 0.37796447300922725)
+2019-09-28 16:03:13,456 MainProcess SampleApp DEBUG    got response: (44, 0.15075567228888181)
+2019-09-28 16:03:13,537 Process-9  Worker DEBUG    sending response: (23, 0.20851441405707474)
+2019-09-28 16:03:13,537 Process-9  Worker DEBUG    sending response: (23, 0.20851441405707474)
+2019-09-28 16:03:13,538 Process-9  Worker DEBUG    processing request 30
+2019-09-28 16:03:13,538 Process-9  Worker DEBUG    processing request 30
+2019-09-28 16:03:13,538 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,538 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,558 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,558 MainProcess SampleApp DEBUG    got response: (23, 0.20851441405707474)
+2019-09-28 16:03:13,617 Process-10 Worker DEBUG    sending response: (17, 0.24253562503633297)
+2019-09-28 16:03:13,617 Process-10 Worker DEBUG    sending response: (17, 0.24253562503633297)
+2019-09-28 16:03:13,664 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,665 MainProcess SampleApp DEBUG    got response: (17, 0.24253562503633297)
+2019-09-28 16:03:13,764 Process-11 Worker DEBUG    sending response: (44, 0.15075567228888181)
+2019-09-28 16:03:13,764 Process-11 Worker DEBUG    sending response: (44, 0.15075567228888181)
+2019-09-28 16:03:13,765 Process-11 Worker DEBUG    processing request 21
+2019-09-28 16:03:13,765 Process-11 Worker DEBUG    processing request 21
+2019-09-28 16:03:13,765 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,765 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,768 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,768 Process-3  Worker DEBUG    sending response: (31, 0.17960530202677488)
+2019-09-28 16:03:13,768 MainProcess SampleApp DEBUG    got response: (31, 0.17960530202677488)
+2019-09-28 16:03:13,768 Process-3  Worker DEBUG    sending response: (31, 0.17960530202677488)
+2019-09-28 16:03:13,769 MainProcess SampleApp DEBUG    got response: (44, 0.15075567228888181)
+2019-09-28 16:03:13,769 Process-3  Worker DEBUG    processing request 46
+2019-09-28 16:03:13,769 Process-3  Worker DEBUG    processing request 46
+2019-09-28 16:03:13,769 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,769 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,773 Process-9  Worker DEBUG    sending response: (30, 0.18257418583505539)
+2019-09-28 16:03:13,773 Process-9  Worker DEBUG    sending response: (30, 0.18257418583505539)
+2019-09-28 16:03:13,774 Process-9  Worker DEBUG    processing request 33
+2019-09-28 16:03:13,774 Process-9  Worker DEBUG    processing request 33
+2019-09-28 16:03:13,774 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,774 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,874 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,874 MainProcess SampleApp DEBUG    got response: (30, 0.18257418583505539)
+2019-09-28 16:03:13,938 Process-2  Worker DEBUG    sending response: (0, None)
+2019-09-28 16:03:13,938 Process-2  Worker DEBUG    sending response: (0, None)
+2019-09-28 16:03:13,944 Process-4  Worker DEBUG    sending response: (15, 0.25819888974716115)
+2019-09-28 16:03:13,944 Process-4  Worker DEBUG    sending response: (15, 0.25819888974716115)
+2019-09-28 16:03:13,944 Process-4  Worker DEBUG    processing request 39
+2019-09-28 16:03:13,944 Process-4  Worker DEBUG    processing request 39
+2019-09-28 16:03:13,945 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,945 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,951 Process-11 Worker DEBUG    sending response: (21, 0.21821789023599236)
+2019-09-28 16:03:13,951 Process-11 Worker DEBUG    sending response: (21, 0.21821789023599236)
+2019-09-28 16:03:13,952 Process-11 Worker DEBUG    processing request 49
+2019-09-28 16:03:13,952 Process-11 Worker DEBUG    processing request 49
+2019-09-28 16:03:13,952 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,952 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:13,977 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:13,977 MainProcess SampleApp DEBUG    got response: (0, None)
+2019-09-28 16:03:13,978 MainProcess SampleApp DEBUG    got response: (15, 0.25819888974716115)
+2019-09-28 16:03:13,978 MainProcess SampleApp DEBUG    got response: (21, 0.21821789023599236)
+2019-09-28 16:03:14,082 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,183 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,236 Process-5  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:14,236 Process-5  Worker DEBUG    sending response: (7, 0.37796447300922725)
+2019-09-28 16:03:14,237 Process-5  Worker DEBUG    processing request 17
+2019-09-28 16:03:14,237 Process-5  Worker DEBUG    processing request 17
+2019-09-28 16:03:14,237 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,237 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,247 Process-4  Worker DEBUG    sending response: (39, 0.16012815380508713)
+2019-09-28 16:03:14,247 Process-4  Worker DEBUG    sending response: (39, 0.16012815380508713)
+2019-09-28 16:03:14,247 Process-4  Worker DEBUG    processing request 26
+2019-09-28 16:03:14,247 Process-4  Worker DEBUG    processing request 26
+2019-09-28 16:03:14,248 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,248 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,289 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,289 MainProcess SampleApp DEBUG    got response: (39, 0.16012815380508713)
+2019-09-28 16:03:14,290 MainProcess SampleApp DEBUG    got response: (7, 0.37796447300922725)
+2019-09-28 16:03:14,348 Process-3  Worker DEBUG    sending response: (46, 0.14744195615489714)
+2019-09-28 16:03:14,348 Process-3  Worker DEBUG    sending response: (46, 0.14744195615489714)
+2019-09-28 16:03:14,349 Process-3  Worker DEBUG    processing request 43
+2019-09-28 16:03:14,349 Process-3  Worker DEBUG    processing request 43
+2019-09-28 16:03:14,350 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,350 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,368 Process-4  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:14,368 Process-4  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:14,369 Process-4  Worker DEBUG    processing request 45
+2019-09-28 16:03:14,369 Process-4  Worker DEBUG    processing request 45
+2019-09-28 16:03:14,370 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,370 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,393 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,393 MainProcess SampleApp DEBUG    got response: (46, 0.14744195615489714)
+2019-09-28 16:03:14,394 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
+2019-09-28 16:03:14,497 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,587 Process-5  Worker DEBUG    sending response: (17, 0.24253562503633297)
+2019-09-28 16:03:14,587 Process-5  Worker DEBUG    sending response: (17, 0.24253562503633297)
+2019-09-28 16:03:14,588 Process-5  Worker DEBUG    processing request 36
+2019-09-28 16:03:14,588 Process-5  Worker DEBUG    processing request 36
+2019-09-28 16:03:14,588 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,588 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,603 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,604 MainProcess SampleApp DEBUG    got response: (17, 0.24253562503633297)
+2019-09-28 16:03:14,624 Process-3  Worker DEBUG    sending response: (43, 0.15249857033260467)
+2019-09-28 16:03:14,624 Process-3  Worker DEBUG    sending response: (43, 0.15249857033260467)
+2019-09-28 16:03:14,625 Process-3  Worker DEBUG    processing request 12
+2019-09-28 16:03:14,625 Process-3  Worker DEBUG    processing request 12
+2019-09-28 16:03:14,625 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,625 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,639 Process-9  Worker DEBUG    sending response: (33, 0.17407765595569782)
+2019-09-28 16:03:14,639 Process-9  Worker DEBUG    sending response: (33, 0.17407765595569782)
+2019-09-28 16:03:14,640 Process-9  Worker DEBUG    processing request 33
+2019-09-28 16:03:14,640 Process-9  Worker DEBUG    processing request 33
+2019-09-28 16:03:14,640 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,640 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,708 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,708 MainProcess SampleApp DEBUG    got response: (43, 0.15249857033260467)
+2019-09-28 16:03:14,709 MainProcess SampleApp DEBUG    got response: (33, 0.17407765595569782)
+2019-09-28 16:03:14,813 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,886 Process-11 Worker DEBUG    sending response: (49, 0.14285714285714285)
+2019-09-28 16:03:14,886 Process-11 Worker DEBUG    sending response: (49, 0.14285714285714285)
+2019-09-28 16:03:14,887 Process-11 Worker DEBUG    processing request 34
+2019-09-28 16:03:14,887 Process-11 Worker DEBUG    processing request 34
+2019-09-28 16:03:14,887 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,887 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,915 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:14,917 MainProcess SampleApp DEBUG    got response: (49, 0.14285714285714285)
+2019-09-28 16:03:14,928 Process-4  Worker DEBUG    sending response: (45, 0.14907119849998599)
+2019-09-28 16:03:14,928 Process-4  Worker DEBUG    sending response: (45, 0.14907119849998599)
+2019-09-28 16:03:14,929 Process-4  Worker DEBUG    processing request 26
+2019-09-28 16:03:14,929 Process-4  Worker DEBUG    processing request 26
+2019-09-28 16:03:14,929 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:14,929 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,021 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,022 MainProcess SampleApp DEBUG    got response: (45, 0.14907119849998599)
+2019-09-28 16:03:15,041 Process-5  Worker DEBUG    sending response: (36, 0.16666666666666666)
+2019-09-28 16:03:15,041 Process-5  Worker DEBUG    sending response: (36, 0.16666666666666666)
+2019-09-28 16:03:15,042 Process-5  Worker DEBUG    processing request 48
+2019-09-28 16:03:15,042 Process-5  Worker DEBUG    processing request 48
+2019-09-28 16:03:15,043 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,043 Process-5  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,126 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,126 MainProcess SampleApp DEBUG    got response: (36, 0.16666666666666666)
+2019-09-28 16:03:15,211 Process-9  Worker DEBUG    sending response: (33, 0.17407765595569782)
+2019-09-28 16:03:15,211 Process-9  Worker DEBUG    sending response: (33, 0.17407765595569782)
+2019-09-28 16:03:15,212 Process-9  Worker DEBUG    processing request 21
+2019-09-28 16:03:15,212 Process-9  Worker DEBUG    processing request 21
+2019-09-28 16:03:15,212 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,212 Process-9  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,230 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,231 MainProcess SampleApp DEBUG    got response: (33, 0.17407765595569782)
+2019-09-28 16:03:15,313 Process-11 Worker DEBUG    sending response: (34, 0.17149858514250885)
+2019-09-28 16:03:15,313 Process-11 Worker DEBUG    sending response: (34, 0.17149858514250885)
+2019-09-28 16:03:15,314 Process-11 Worker DEBUG    processing request 1
+2019-09-28 16:03:15,314 Process-11 Worker DEBUG    processing request 1
+2019-09-28 16:03:15,315 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,315 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,333 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,334 MainProcess SampleApp DEBUG    got response: (34, 0.17149858514250885)
+2019-09-28 16:03:15,437 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,507 Process-5  Worker DEBUG    sending response: (48, 0.14433756729740643)
+2019-09-28 16:03:15,507 Process-5  Worker DEBUG    sending response: (48, 0.14433756729740643)
+2019-09-28 16:03:15,541 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,541 MainProcess SampleApp DEBUG    got response: (48, 0.14433756729740643)
+2019-09-28 16:03:15,623 Process-3  Worker DEBUG    sending response: (12, 0.28867513459481287)
+2019-09-28 16:03:15,623 Process-3  Worker DEBUG    sending response: (12, 0.28867513459481287)
+2019-09-28 16:03:15,624 Process-3  Worker DEBUG    processing request 18
+2019-09-28 16:03:15,624 Process-3  Worker DEBUG    processing request 18
+2019-09-28 16:03:15,625 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,625 Process-3  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,644 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,644 MainProcess SampleApp DEBUG    got response: (12, 0.28867513459481287)
+2019-09-28 16:03:15,747 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,833 Process-3  Worker DEBUG    sending response: (18, 0.2357022603955158)
+2019-09-28 16:03:15,833 Process-3  Worker DEBUG    sending response: (18, 0.2357022603955158)
+2019-09-28 16:03:15,836 Process-4  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:15,836 Process-4  Worker DEBUG    sending response: (26, 0.19611613513818402)
+2019-09-28 16:03:15,837 Process-4  Worker DEBUG    processing request 0
+2019-09-28 16:03:15,837 Process-4  Worker DEBUG    processing request 0
+2019-09-28 16:03:15,838 Process-4  Worker ERROR    error processing request
 Traceback (most recent call last):
   File "/Users/mzieg/work/code/ApplogDemo/Worker.py", line 103, in subprocess_main
     value = math.sqrt(request) / request
 ZeroDivisionError: float division by zero
-2019-09-28 15:51:55,723 Process-2  Worker ERROR    error processing request
+2019-09-28 16:03:15,838 Process-4  Worker ERROR    error processing request
 Traceback (most recent call last):
   File "/Users/mzieg/work/code/ApplogDemo/Worker.py", line 103, in subprocess_main
     value = math.sqrt(request) / request
 ZeroDivisionError: float division by zero
-2019-09-28 15:51:55,725 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,725 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,752 Process-11 Worker DEBUG    sending response: (23, 0.20851441405707474)
-2019-09-28 15:51:55,752 Process-11 Worker DEBUG    sending response: (23, 0.20851441405707474)
-2019-09-28 15:51:55,753 Process-11 Worker DEBUG    processing request 46
-2019-09-28 15:51:55,753 Process-11 Worker DEBUG    processing request 46
-2019-09-28 15:51:55,753 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,753 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,779 Process-3  Worker DEBUG    sending response: (29, 0.18569533817705186)
-2019-09-28 15:51:55,779 Process-3  Worker DEBUG    sending response: (29, 0.18569533817705186)
-2019-09-28 15:51:55,780 Process-3  Worker DEBUG    processing request 26
-2019-09-28 15:51:55,780 Process-3  Worker DEBUG    processing request 26
-2019-09-28 15:51:55,780 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,780 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,794 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,794 MainProcess SampleApp DEBUG    got response: (27, 0.19245008972987526)
-2019-09-28 15:51:55,795 MainProcess SampleApp DEBUG    got response: (29, 0.18569533817705186)
-2019-09-28 15:51:55,795 MainProcess SampleApp DEBUG    got response: (32, 0.1767766952966369)
-2019-09-28 15:51:55,796 MainProcess SampleApp DEBUG    got response: (23, 0.20851441405707474)
-2019-09-28 15:51:55,898 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:55,913 Process-10 Worker DEBUG    sending response: (32, 0.1767766952966369)
-2019-09-28 15:51:55,913 Process-10 Worker DEBUG    sending response: (32, 0.1767766952966369)
-2019-09-28 15:51:55,913 Process-10 Worker DEBUG    processing request 32
-2019-09-28 15:51:55,913 Process-10 Worker DEBUG    processing request 32
-2019-09-28 15:51:55,914 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,914 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,949 Process-6  Worker DEBUG    sending response: (35, 0.16903085094570333)
-2019-09-28 15:51:55,949 Process-6  Worker DEBUG    sending response: (35, 0.16903085094570333)
-2019-09-28 15:51:55,951 Process-6  Worker DEBUG    processing request 31
-2019-09-28 15:51:55,951 Process-6  Worker DEBUG    processing request 31
-2019-09-28 15:51:55,951 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,951 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,974 Process-5  Worker DEBUG    sending response: (45, 0.14907119849998599)
-2019-09-28 15:51:55,974 Process-5  Worker DEBUG    sending response: (45, 0.14907119849998599)
-2019-09-28 15:51:55,975 Process-5  Worker DEBUG    processing request 21
-2019-09-28 15:51:55,975 Process-5  Worker DEBUG    processing request 21
-2019-09-28 15:51:55,975 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:55,975 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,003 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,004 MainProcess SampleApp DEBUG    got response: (45, 0.14907119849998599)
-2019-09-28 15:51:56,004 MainProcess SampleApp DEBUG    got response: (35, 0.16903085094570333)
-2019-09-28 15:51:56,004 MainProcess SampleApp DEBUG    got response: (32, 0.1767766952966369)
-2019-09-28 15:51:56,019 Process-7  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,019 Process-7  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,021 Process-7  Worker DEBUG    processing request 1
-2019-09-28 15:51:56,021 Process-7  Worker DEBUG    processing request 1
-2019-09-28 15:51:56,021 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,021 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,059 Process-8  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,059 Process-8  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,060 Process-8  Worker DEBUG    processing request 49
-2019-09-28 15:51:56,060 Process-8  Worker DEBUG    processing request 49
-2019-09-28 15:51:56,060 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,060 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,108 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,108 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,108 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,162 Process-10 Worker DEBUG    sending response: (32, 0.1767766952966369)
-2019-09-28 15:51:56,162 Process-10 Worker DEBUG    sending response: (32, 0.1767766952966369)
-2019-09-28 15:51:56,164 Process-10 Worker DEBUG    processing request 5
-2019-09-28 15:51:56,164 Process-10 Worker DEBUG    processing request 5
-2019-09-28 15:51:56,164 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,164 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,181 Process-3  Worker DEBUG    sending response: (26, 0.19611613513818402)
-2019-09-28 15:51:56,181 Process-3  Worker DEBUG    sending response: (26, 0.19611613513818402)
-2019-09-28 15:51:56,182 Process-3  Worker DEBUG    processing request 11
-2019-09-28 15:51:56,182 Process-3  Worker DEBUG    processing request 11
-2019-09-28 15:51:56,182 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,182 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,212 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,212 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
-2019-09-28 15:51:56,213 MainProcess SampleApp DEBUG    got response: (32, 0.1767766952966369)
-2019-09-28 15:51:56,229 Process-2  Worker DEBUG    sending response: (0, None)
-2019-09-28 15:51:56,229 Process-2  Worker DEBUG    sending response: (0, None)
-2019-09-28 15:51:56,230 Process-2  Worker DEBUG    processing request 18
-2019-09-28 15:51:56,230 Process-2  Worker DEBUG    processing request 18
-2019-09-28 15:51:56,230 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,230 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,277 Process-5  Worker DEBUG    sending response: (21, 0.21821789023599236)
-2019-09-28 15:51:56,277 Process-5  Worker DEBUG    sending response: (21, 0.21821789023599236)
-2019-09-28 15:51:56,279 Process-5  Worker DEBUG    processing request 20
-2019-09-28 15:51:56,279 Process-5  Worker DEBUG    processing request 20
-2019-09-28 15:51:56,279 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,279 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,316 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,317 MainProcess SampleApp DEBUG    got response: (0, None)
-2019-09-28 15:51:56,317 MainProcess SampleApp DEBUG    got response: (21, 0.21821789023599236)
-2019-09-28 15:51:56,371 Process-4  Worker DEBUG    sending response: (36, 0.16666666666666666)
-2019-09-28 15:51:56,371 Process-4  Worker DEBUG    sending response: (36, 0.16666666666666666)
-2019-09-28 15:51:56,373 Process-4  Worker DEBUG    processing request 12
-2019-09-28 15:51:56,373 Process-4  Worker DEBUG    processing request 12
-2019-09-28 15:51:56,373 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,373 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,381 Process-10 Worker DEBUG    sending response: (5, 0.447213595499958)
-2019-09-28 15:51:56,381 Process-10 Worker DEBUG    sending response: (5, 0.447213595499958)
-2019-09-28 15:51:56,382 Process-10 Worker DEBUG    processing request 48
-2019-09-28 15:51:56,382 Process-10 Worker DEBUG    processing request 48
-2019-09-28 15:51:56,382 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,382 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,399 Process-7  Worker DEBUG    sending response: (1, 1.0)
-2019-09-28 15:51:56,399 Process-7  Worker DEBUG    sending response: (1, 1.0)
-2019-09-28 15:51:56,400 Process-7  Worker DEBUG    processing request 36
-2019-09-28 15:51:56,400 Process-7  Worker DEBUG    processing request 36
-2019-09-28 15:51:56,400 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,400 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,421 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,422 MainProcess SampleApp DEBUG    got response: (36, 0.16666666666666666)
-2019-09-28 15:51:56,422 MainProcess SampleApp DEBUG    got response: (1, 1.0)
-2019-09-28 15:51:56,423 MainProcess SampleApp DEBUG    got response: (5, 0.447213595499958)
-2019-09-28 15:51:56,476 Process-2  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,476 Process-2  Worker DEBUG    sending response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,477 Process-2  Worker DEBUG    processing request 22
-2019-09-28 15:51:56,477 Process-2  Worker DEBUG    processing request 22
-2019-09-28 15:51:56,477 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,477 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,525 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,525 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
-2019-09-28 15:51:56,565 Process-8  Worker DEBUG    sending response: (49, 0.14285714285714285)
-2019-09-28 15:51:56,565 Process-8  Worker DEBUG    sending response: (49, 0.14285714285714285)
-2019-09-28 15:51:56,567 Process-8  Worker DEBUG    processing request 3
-2019-09-28 15:51:56,567 Process-8  Worker DEBUG    processing request 3
-2019-09-28 15:51:56,567 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,567 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,621 Process-4  Worker DEBUG    sending response: (12, 0.28867513459481287)
-2019-09-28 15:51:56,621 Process-4  Worker DEBUG    sending response: (12, 0.28867513459481287)
-2019-09-28 15:51:56,622 Process-4  Worker DEBUG    processing request 28
-2019-09-28 15:51:56,622 Process-4  Worker DEBUG    processing request 28
-2019-09-28 15:51:56,622 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,622 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,630 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,630 MainProcess SampleApp DEBUG    got response: (12, 0.28867513459481287)
-2019-09-28 15:51:56,631 MainProcess SampleApp DEBUG    got response: (49, 0.14285714285714285)
-2019-09-28 15:51:56,665 Process-9  Worker DEBUG    sending response: (37, 0.1643989873053573)
-2019-09-28 15:51:56,665 Process-9  Worker DEBUG    sending response: (37, 0.1643989873053573)
-2019-09-28 15:51:56,666 Process-9  Worker DEBUG    processing request 5
-2019-09-28 15:51:56,666 Process-9  Worker DEBUG    processing request 5
-2019-09-28 15:51:56,666 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,666 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,668 Process-3  Worker DEBUG    sending response: (11, 0.30151134457776363)
-2019-09-28 15:51:56,668 Process-3  Worker DEBUG    sending response: (11, 0.30151134457776363)
-2019-09-28 15:51:56,669 Process-3  Worker DEBUG    processing request 39
-2019-09-28 15:51:56,669 Process-3  Worker DEBUG    processing request 39
-2019-09-28 15:51:56,669 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,669 Process-3  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,709 Process-11 Worker DEBUG    sending response: (46, 0.14744195615489714)
-2019-09-28 15:51:56,709 Process-11 Worker DEBUG    sending response: (46, 0.14744195615489714)
-2019-09-28 15:51:56,710 Process-11 Worker DEBUG    processing request 29
-2019-09-28 15:51:56,710 Process-11 Worker DEBUG    processing request 29
-2019-09-28 15:51:56,710 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,710 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,735 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,735 MainProcess SampleApp DEBUG    got response: (11, 0.30151134457776363)
-2019-09-28 15:51:56,736 MainProcess SampleApp DEBUG    got response: (37, 0.1643989873053573)
-2019-09-28 15:51:56,736 MainProcess SampleApp DEBUG    got response: (46, 0.14744195615489714)
-2019-09-28 15:51:56,749 Process-6  Worker DEBUG    sending response: (31, 0.17960530202677488)
-2019-09-28 15:51:56,749 Process-6  Worker DEBUG    sending response: (31, 0.17960530202677488)
-2019-09-28 15:51:56,750 Process-6  Worker DEBUG    processing request 5
-2019-09-28 15:51:56,750 Process-6  Worker DEBUG    processing request 5
-2019-09-28 15:51:56,750 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,750 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,840 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,840 MainProcess SampleApp DEBUG    got response: (31, 0.17960530202677488)
-2019-09-28 15:51:56,843 Process-3  Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:56,843 Process-3  Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:56,943 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:56,944 MainProcess SampleApp DEBUG    got response: (39, 0.16012815380508713)
-2019-09-28 15:51:56,978 Process-4  Worker DEBUG    sending response: (28, 0.18898223650461363)
-2019-09-28 15:51:56,978 Process-4  Worker DEBUG    sending response: (28, 0.18898223650461363)
-2019-09-28 15:51:56,979 Process-4  Worker DEBUG    processing request 46
-2019-09-28 15:51:56,979 Process-4  Worker DEBUG    processing request 46
-2019-09-28 15:51:56,979 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,979 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,997 Process-7  Worker DEBUG    sending response: (36, 0.16666666666666666)
-2019-09-28 15:51:56,997 Process-7  Worker DEBUG    sending response: (36, 0.16666666666666666)
-2019-09-28 15:51:56,999 Process-7  Worker DEBUG    processing request 26
-2019-09-28 15:51:56,999 Process-7  Worker DEBUG    processing request 26
-2019-09-28 15:51:56,999 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:56,999 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,031 Process-5  Worker DEBUG    sending response: (20, 0.223606797749979)
-2019-09-28 15:51:57,031 Process-5  Worker DEBUG    sending response: (20, 0.223606797749979)
-2019-09-28 15:51:57,032 Process-5  Worker DEBUG    processing request 34
-2019-09-28 15:51:57,032 Process-5  Worker DEBUG    processing request 34
-2019-09-28 15:51:57,032 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,032 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,048 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,048 MainProcess SampleApp DEBUG    got response: (28, 0.18898223650461363)
-2019-09-28 15:51:57,048 MainProcess SampleApp DEBUG    got response: (20, 0.223606797749979)
-2019-09-28 15:51:57,049 MainProcess SampleApp DEBUG    got response: (36, 0.16666666666666666)
-2019-09-28 15:51:57,111 Process-9  Worker DEBUG    sending response: (5, 0.447213595499958)
-2019-09-28 15:51:57,111 Process-9  Worker DEBUG    sending response: (5, 0.447213595499958)
-2019-09-28 15:51:57,112 Process-9  Worker DEBUG    processing request 47
-2019-09-28 15:51:57,112 Process-9  Worker DEBUG    processing request 47
-2019-09-28 15:51:57,112 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,112 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,117 Process-2  Worker DEBUG    sending response: (22, 0.21320071635561044)
-2019-09-28 15:51:57,117 Process-2  Worker DEBUG    sending response: (22, 0.21320071635561044)
-2019-09-28 15:51:57,118 Process-2  Worker DEBUG    processing request 14
-2019-09-28 15:51:57,118 Process-2  Worker DEBUG    processing request 14
-2019-09-28 15:51:57,119 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,119 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,152 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,153 MainProcess SampleApp DEBUG    got response: (22, 0.21320071635561044)
-2019-09-28 15:51:57,153 MainProcess SampleApp DEBUG    got response: (5, 0.447213595499958)
-2019-09-28 15:51:57,170 Process-6  Worker DEBUG    sending response: (5, 0.447213595499958)
-2019-09-28 15:51:57,170 Process-6  Worker DEBUG    sending response: (5, 0.447213595499958)
-2019-09-28 15:51:57,171 Process-6  Worker DEBUG    processing request 2
-2019-09-28 15:51:57,171 Process-6  Worker DEBUG    processing request 2
-2019-09-28 15:51:57,171 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,171 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,245 Process-10 Worker DEBUG    sending response: (48, 0.14433756729740643)
-2019-09-28 15:51:57,245 Process-10 Worker DEBUG    sending response: (48, 0.14433756729740643)
-2019-09-28 15:51:57,247 Process-10 Worker DEBUG    processing request 13
-2019-09-28 15:51:57,247 Process-10 Worker DEBUG    processing request 13
-2019-09-28 15:51:57,247 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,247 Process-10 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,258 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,258 MainProcess SampleApp DEBUG    got response: (5, 0.447213595499958)
-2019-09-28 15:51:57,259 MainProcess SampleApp DEBUG    got response: (48, 0.14433756729740643)
-2019-09-28 15:51:57,303 Process-8  Worker DEBUG    sending response: (3, 0.5773502691896257)
-2019-09-28 15:51:57,303 Process-8  Worker DEBUG    sending response: (3, 0.5773502691896257)
-2019-09-28 15:51:57,304 Process-8  Worker DEBUG    processing request 34
-2019-09-28 15:51:57,304 Process-8  Worker DEBUG    processing request 34
-2019-09-28 15:51:57,305 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,305 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,338 Process-4  Worker DEBUG    sending response: (46, 0.14744195615489714)
-2019-09-28 15:51:57,338 Process-4  Worker DEBUG    sending response: (46, 0.14744195615489714)
-2019-09-28 15:51:57,339 Process-4  Worker DEBUG    processing request 21
-2019-09-28 15:51:57,339 Process-4  Worker DEBUG    processing request 21
-2019-09-28 15:51:57,339 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,339 Process-4  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,347 Process-2  Worker DEBUG    sending response: (14, 0.2672612419124244)
-2019-09-28 15:51:57,347 Process-2  Worker DEBUG    sending response: (14, 0.2672612419124244)
-2019-09-28 15:51:57,348 Process-2  Worker DEBUG    processing request 45
-2019-09-28 15:51:57,348 Process-2  Worker DEBUG    processing request 45
-2019-09-28 15:51:57,348 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,348 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,362 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,362 MainProcess SampleApp DEBUG    got response: (14, 0.2672612419124244)
-2019-09-28 15:51:57,363 MainProcess SampleApp DEBUG    got response: (46, 0.14744195615489714)
-2019-09-28 15:51:57,363 MainProcess SampleApp DEBUG    got response: (3, 0.5773502691896257)
-2019-09-28 15:51:57,442 Process-11 Worker DEBUG    sending response: (29, 0.18569533817705186)
-2019-09-28 15:51:57,442 Process-11 Worker DEBUG    sending response: (29, 0.18569533817705186)
-2019-09-28 15:51:57,443 Process-11 Worker DEBUG    processing request 19
-2019-09-28 15:51:57,443 Process-11 Worker DEBUG    processing request 19
-2019-09-28 15:51:57,443 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,443 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,466 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,467 MainProcess SampleApp DEBUG    got response: (29, 0.18569533817705186)
-2019-09-28 15:51:57,570 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,637 Process-8  Worker DEBUG    sending response: (34, 0.17149858514250885)
-2019-09-28 15:51:57,637 Process-8  Worker DEBUG    sending response: (34, 0.17149858514250885)
-2019-09-28 15:51:57,638 Process-8  Worker DEBUG    processing request 10
-2019-09-28 15:51:57,638 Process-8  Worker DEBUG    processing request 10
-2019-09-28 15:51:57,638 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,638 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,675 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,676 MainProcess SampleApp DEBUG    got response: (34, 0.17149858514250885)
-2019-09-28 15:51:57,779 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,793 Process-5  Worker DEBUG    sending response: (34, 0.17149858514250885)
-2019-09-28 15:51:57,793 Process-5  Worker DEBUG    sending response: (34, 0.17149858514250885)
-2019-09-28 15:51:57,795 Process-5  Worker DEBUG    processing request 20
-2019-09-28 15:51:57,795 Process-5  Worker DEBUG    processing request 20
-2019-09-28 15:51:57,795 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,795 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,852 Process-9  Worker DEBUG    sending response: (47, 0.14586499149789456)
-2019-09-28 15:51:57,852 Process-9  Worker DEBUG    sending response: (47, 0.14586499149789456)
-2019-09-28 15:51:57,853 Process-9  Worker DEBUG    processing request 36
-2019-09-28 15:51:57,853 Process-9  Worker DEBUG    processing request 36
-2019-09-28 15:51:57,853 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,853 Process-9  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,856 Process-4  Worker DEBUG    sending response: (21, 0.21821789023599236)
-2019-09-28 15:51:57,856 Process-4  Worker DEBUG    sending response: (21, 0.21821789023599236)
-2019-09-28 15:51:57,884 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,884 MainProcess SampleApp DEBUG    got response: (21, 0.21821789023599236)
-2019-09-28 15:51:57,884 MainProcess SampleApp DEBUG    got response: (34, 0.17149858514250885)
-2019-09-28 15:51:57,885 MainProcess SampleApp DEBUG    got response: (47, 0.14586499149789456)
-2019-09-28 15:51:57,947 Process-7  Worker DEBUG    sending response: (26, 0.19611613513818402)
-2019-09-28 15:51:57,947 Process-7  Worker DEBUG    sending response: (26, 0.19611613513818402)
-2019-09-28 15:51:57,948 Process-7  Worker DEBUG    processing request 13
-2019-09-28 15:51:57,948 Process-7  Worker DEBUG    processing request 13
-2019-09-28 15:51:57,948 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,948 Process-7  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,962 Process-10 Worker DEBUG    sending response: (13, 0.2773500981126146)
-2019-09-28 15:51:57,962 Process-10 Worker DEBUG    sending response: (13, 0.2773500981126146)
-2019-09-28 15:51:57,968 Process-6  Worker DEBUG    sending response: (2, 0.7071067811865476)
-2019-09-28 15:51:57,968 Process-6  Worker DEBUG    sending response: (2, 0.7071067811865476)
-2019-09-28 15:51:57,969 Process-6  Worker DEBUG    processing request 17
-2019-09-28 15:51:57,969 Process-6  Worker DEBUG    processing request 17
-2019-09-28 15:51:57,969 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,969 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:57,988 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:57,989 MainProcess SampleApp DEBUG    got response: (2, 0.7071067811865476)
-2019-09-28 15:51:57,989 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
-2019-09-28 15:51:57,989 MainProcess SampleApp DEBUG    got response: (13, 0.2773500981126146)
-2019-09-28 15:51:58,066 Process-11 Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,066 Process-11 Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,067 Process-11 Worker DEBUG    processing request 3
-2019-09-28 15:51:58,067 Process-11 Worker DEBUG    processing request 3
-2019-09-28 15:51:58,067 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,067 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,093 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,093 MainProcess SampleApp DEBUG    got response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,197 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,209 Process-2  Worker DEBUG    sending response: (45, 0.14907119849998599)
-2019-09-28 15:51:58,209 Process-2  Worker DEBUG    sending response: (45, 0.14907119849998599)
-2019-09-28 15:51:58,210 Process-2  Worker DEBUG    processing request 19
-2019-09-28 15:51:58,210 Process-2  Worker DEBUG    processing request 19
-2019-09-28 15:51:58,210 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,210 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,226 Process-8  Worker DEBUG    sending response: (10, 0.31622776601683794)
-2019-09-28 15:51:58,226 Process-8  Worker DEBUG    sending response: (10, 0.31622776601683794)
-2019-09-28 15:51:58,227 Process-8  Worker DEBUG    processing request 1
-2019-09-28 15:51:58,227 Process-8  Worker DEBUG    processing request 1
-2019-09-28 15:51:58,227 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,227 Process-8  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,301 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,302 MainProcess SampleApp DEBUG    got response: (45, 0.14907119849998599)
-2019-09-28 15:51:58,303 MainProcess SampleApp DEBUG    got response: (10, 0.31622776601683794)
-2019-09-28 15:51:58,406 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,464 Process-11 Worker DEBUG    sending response: (3, 0.5773502691896257)
-2019-09-28 15:51:58,464 Process-11 Worker DEBUG    sending response: (3, 0.5773502691896257)
-2019-09-28 15:51:58,465 Process-11 Worker DEBUG    processing request 11
-2019-09-28 15:51:58,465 Process-11 Worker DEBUG    processing request 11
-2019-09-28 15:51:58,465 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,465 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,469 Process-6  Worker DEBUG    sending response: (17, 0.24253562503633297)
-2019-09-28 15:51:58,469 Process-6  Worker DEBUG    sending response: (17, 0.24253562503633297)
-2019-09-28 15:51:58,470 Process-6  Worker DEBUG    processing request 23
-2019-09-28 15:51:58,470 Process-6  Worker DEBUG    processing request 23
-2019-09-28 15:51:58,470 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,470 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,511 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,511 MainProcess SampleApp DEBUG    got response: (17, 0.24253562503633297)
-2019-09-28 15:51:58,511 MainProcess SampleApp DEBUG    got response: (3, 0.5773502691896257)
-2019-09-28 15:51:58,548 Process-5  Worker DEBUG    sending response: (20, 0.223606797749979)
-2019-09-28 15:51:58,548 Process-5  Worker DEBUG    sending response: (20, 0.223606797749979)
-2019-09-28 15:51:58,549 Process-5  Worker DEBUG    processing request 19
-2019-09-28 15:51:58,549 Process-5  Worker DEBUG    processing request 19
-2019-09-28 15:51:58,549 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,549 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,604 Process-9  Worker DEBUG    sending response: (36, 0.16666666666666666)
-2019-09-28 15:51:58,604 Process-9  Worker DEBUG    sending response: (36, 0.16666666666666666)
-2019-09-28 15:51:58,615 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,616 MainProcess SampleApp DEBUG    got response: (20, 0.223606797749979)
-2019-09-28 15:51:58,616 MainProcess SampleApp DEBUG    got response: (36, 0.16666666666666666)
-2019-09-28 15:51:58,652 Process-2  Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,652 Process-2  Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,653 Process-2  Worker DEBUG    processing request 13
-2019-09-28 15:51:58,653 Process-2  Worker DEBUG    processing request 13
-2019-09-28 15:51:58,653 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,653 Process-2  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,721 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,722 MainProcess SampleApp DEBUG    got response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,737 Process-7  Worker DEBUG    sending response: (13, 0.2773500981126146)
-2019-09-28 15:51:58,737 Process-7  Worker DEBUG    sending response: (13, 0.2773500981126146)
-2019-09-28 15:51:58,776 Process-11 Worker DEBUG    sending response: (11, 0.30151134457776363)
-2019-09-28 15:51:58,776 Process-11 Worker DEBUG    sending response: (11, 0.30151134457776363)
-2019-09-28 15:51:58,778 Process-11 Worker DEBUG    processing request 30
-2019-09-28 15:51:58,778 Process-11 Worker DEBUG    processing request 30
-2019-09-28 15:51:58,778 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,778 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,806 Process-5  Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,806 Process-5  Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,807 Process-5  Worker DEBUG    processing request 12
-2019-09-28 15:51:58,807 Process-5  Worker DEBUG    processing request 12
-2019-09-28 15:51:58,808 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,808 Process-5  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:58,825 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,825 MainProcess SampleApp DEBUG    got response: (19, 0.2294157338705618)
-2019-09-28 15:51:58,826 MainProcess SampleApp DEBUG    got response: (13, 0.2773500981126146)
-2019-09-28 15:51:58,826 MainProcess SampleApp DEBUG    got response: (11, 0.30151134457776363)
-2019-09-28 15:51:58,929 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:58,951 Process-8  Worker DEBUG    sending response: (1, 1.0)
-2019-09-28 15:51:58,951 Process-8  Worker DEBUG    sending response: (1, 1.0)
-2019-09-28 15:51:59,032 Process-6  Worker DEBUG    sending response: (23, 0.20851441405707474)
-2019-09-28 15:51:59,032 Process-6  Worker DEBUG    sending response: (23, 0.20851441405707474)
-2019-09-28 15:51:59,033 Process-6  Worker DEBUG    processing request 19
-2019-09-28 15:51:59,033 Process-6  Worker DEBUG    processing request 19
-2019-09-28 15:51:59,034 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,034 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,034 Process-5  Worker DEBUG    sending response: (12, 0.28867513459481287)
-2019-09-28 15:51:59,034 Process-5  Worker DEBUG    sending response: (12, 0.28867513459481287)
-2019-09-28 15:51:59,034 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,034 MainProcess SampleApp DEBUG    got response: (12, 0.28867513459481287)
-2019-09-28 15:51:59,035 MainProcess SampleApp DEBUG    got response: (23, 0.20851441405707474)
-2019-09-28 15:51:59,035 MainProcess SampleApp DEBUG    got response: (1, 1.0)
-2019-09-28 15:51:59,138 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,216 Process-11 Worker DEBUG    sending response: (30, 0.18257418583505539)
-2019-09-28 15:51:59,216 Process-11 Worker DEBUG    sending response: (30, 0.18257418583505539)
-2019-09-28 15:51:59,217 Process-11 Worker DEBUG    processing request 39
-2019-09-28 15:51:59,217 Process-11 Worker DEBUG    processing request 39
-2019-09-28 15:51:59,217 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,217 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,239 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,240 MainProcess SampleApp DEBUG    got response: (30, 0.18257418583505539)
-2019-09-28 15:51:59,344 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,446 Process-6  Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:59,448 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,446 Process-6  Worker DEBUG    sending response: (19, 0.2294157338705618)
-2019-09-28 15:51:59,448 Process-6  Worker DEBUG    processing request 22
-2019-09-28 15:51:59,448 Process-6  Worker DEBUG    processing request 22
-2019-09-28 15:51:59,448 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,448 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,449 MainProcess SampleApp DEBUG    got response: (19, 0.2294157338705618)
-2019-09-28 15:51:59,538 Process-2  Worker DEBUG    sending response: (13, 0.2773500981126146)
-2019-09-28 15:51:59,538 Process-2  Worker DEBUG    sending response: (13, 0.2773500981126146)
-2019-09-28 15:51:59,552 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,553 MainProcess SampleApp DEBUG    got response: (13, 0.2773500981126146)
-2019-09-28 15:51:59,658 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,761 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,866 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,883 Process-6  Worker DEBUG    sending response: (22, 0.21320071635561044)
-2019-09-28 15:51:59,883 Process-6  Worker DEBUG    sending response: (22, 0.21320071635561044)
-2019-09-28 15:51:59,884 Process-6  Worker DEBUG    processing request 15
-2019-09-28 15:51:59,884 Process-6  Worker DEBUG    processing request 15
-2019-09-28 15:51:59,885 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,885 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,947 Process-11 Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:59,947 Process-11 Worker DEBUG    sending response: (39, 0.16012815380508713)
-2019-09-28 15:51:59,948 Process-11 Worker DEBUG    processing request 42
-2019-09-28 15:51:59,948 Process-11 Worker DEBUG    processing request 42
-2019-09-28 15:51:59,948 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,948 Process-11 Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:51:59,970 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:51:59,971 MainProcess SampleApp DEBUG    got response: (22, 0.21320071635561044)
-2019-09-28 15:51:59,971 MainProcess SampleApp DEBUG    got response: (39, 0.16012815380508713)
-2019-09-28 15:52:00,075 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,097 Process-11 Worker DEBUG    sending response: (42, 0.1543033499620919)
-2019-09-28 15:52:00,097 Process-11 Worker DEBUG    sending response: (42, 0.1543033499620919)
-2019-09-28 15:52:00,179 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,180 MainProcess SampleApp DEBUG    got response: (42, 0.1543033499620919)
-2019-09-28 15:52:00,284 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,388 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,493 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,498 Process-6  Worker DEBUG    sending response: (15, 0.25819888974716115)
-2019-09-28 15:52:00,498 Process-6  Worker DEBUG    sending response: (15, 0.25819888974716115)
-2019-09-28 15:52:00,499 Process-6  Worker DEBUG    processing request 30
-2019-09-28 15:52:00,499 Process-6  Worker DEBUG    processing request 30
-2019-09-28 15:52:00,499 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:52:00,499 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:52:00,597 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,598 MainProcess SampleApp DEBUG    got response: (15, 0.25819888974716115)
-2019-09-28 15:52:00,702 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,806 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:00,911 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,015 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,120 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,224 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,302 Process-6  Worker DEBUG    sending response: (30, 0.18257418583505539)
-2019-09-28 15:52:01,302 Process-6  Worker DEBUG    sending response: (30, 0.18257418583505539)
-2019-09-28 15:52:01,303 Process-6  Worker DEBUG    processing request 42
-2019-09-28 15:52:01,303 Process-6  Worker DEBUG    processing request 42
-2019-09-28 15:52:01,303 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:52:01,303 Process-6  Worker DEBUG    sleeping for 0 ms
-2019-09-28 15:52:01,329 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,330 MainProcess SampleApp DEBUG    got response: (30, 0.18257418583505539)
-2019-09-28 15:52:01,433 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,538 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,643 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,748 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,820 Process-6  Worker DEBUG    sending response: (42, 0.1543033499620919)
-2019-09-28 15:52:01,820 Process-6  Worker DEBUG    sending response: (42, 0.1543033499620919)
-2019-09-28 15:52:01,849 Process-3  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:01,849 Process-3  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:01,849 Process-3  Worker INFO     worker process exiting
-2019-09-28 15:52:01,849 Process-3  Worker INFO     worker process exiting
-2019-09-28 15:52:01,854 MainProcess SampleApp DEBUG    polling for responses
-2019-09-28 15:52:01,855 MainProcess SampleApp DEBUG    got response: (42, 0.1543033499620919)
-2019-09-28 15:52:01,959 MainProcess SampleApp DEBUG    all work complete!
-2019-09-28 15:52:01,959 MainProcess SampleApp DEBUG    closing workers
-2019-09-28 15:52:01,959 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:01,959 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:02,864 Process-4  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:02,864 Process-4  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:02,864 Process-4  Worker INFO     worker process exiting
-2019-09-28 15:52:02,864 Process-4  Worker INFO     worker process exiting
-2019-09-28 15:52:02,969 Process-10 Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:02,969 Process-10 Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:02,969 Process-10 Worker INFO     worker process exiting
-2019-09-28 15:52:02,969 Process-10 Worker INFO     worker process exiting
-2019-09-28 15:52:03,612 Process-9  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:03,612 Process-9  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:03,612 Process-9  Worker INFO     worker process exiting
-2019-09-28 15:52:03,612 Process-9  Worker INFO     worker process exiting
-2019-09-28 15:52:03,744 Process-7  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:03,744 Process-7  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:03,744 Process-7  Worker INFO     worker process exiting
-2019-09-28 15:52:03,744 Process-7  Worker INFO     worker process exiting
-2019-09-28 15:52:03,958 Process-8  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:03,958 Process-8  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:03,958 Process-8  Worker INFO     worker process exiting
-2019-09-28 15:52:03,958 Process-8  Worker INFO     worker process exiting
-2019-09-28 15:52:04,041 Process-5  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:04,041 Process-5  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:04,041 Process-5  Worker INFO     worker process exiting
-2019-09-28 15:52:04,041 Process-5  Worker INFO     worker process exiting
-2019-09-28 15:52:04,546 Process-2  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:04,546 Process-2  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:04,546 Process-2  Worker INFO     worker process exiting
-2019-09-28 15:52:04,546 Process-2  Worker INFO     worker process exiting
-2019-09-28 15:52:04,548 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:04,548 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:04,548 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:04,549 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:04,549 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:04,549 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:04,549 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:04,550 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:05,103 Process-11 Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:05,103 Process-11 Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:05,103 Process-11 Worker INFO     worker process exiting
-2019-09-28 15:52:05,103 Process-11 Worker INFO     worker process exiting
-2019-09-28 15:52:06,827 Process-6  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:06,827 Process-6  Worker INFO     giving up waiting for more work after 5.00 sec
-2019-09-28 15:52:06,827 Process-6  Worker INFO     worker process exiting
-2019-09-28 15:52:06,827 Process-6  Worker INFO     worker process exiting
-2019-09-28 15:52:06,829 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:06,830 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:06,830 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:06,830 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:06,830 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:06,831 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:06,831 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:06,831 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:06,831 MainProcess Worker DEBUG    sending poison-pill to child
-2019-09-28 15:52:06,831 MainProcess Worker DEBUG    waiting on child to die
-2019-09-28 15:52:06,832 MainProcess SampleApp DEBUG    done
-2019-09-28 15:52:06,832 MainProcess __main__ DEBUG    SampleApp.run completed
-2019-09-28 15:52:06,832 MainProcess __main__ DEBUG    closing logger
-2019-09-28 15:52:06,836 Process-1  root CRITICAL Applog told to shutdown
-2019-09-28 15:52:06,837 Process-1  root CRITICAL Applog shutting down
+2019-09-28 16:03:15,839 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,839 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,851 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,852 MainProcess SampleApp DEBUG    got response: (18, 0.2357022603955158)
+2019-09-28 16:03:15,852 MainProcess SampleApp DEBUG    got response: (26, 0.19611613513818402)
+2019-09-28 16:03:15,926 Process-9  Worker DEBUG    sending response: (21, 0.21821789023599236)
+2019-09-28 16:03:15,926 Process-9  Worker DEBUG    sending response: (21, 0.21821789023599236)
+2019-09-28 16:03:15,946 Process-4  Worker DEBUG    sending response: (0, None)
+2019-09-28 16:03:15,946 Process-4  Worker DEBUG    sending response: (0, None)
+2019-09-28 16:03:15,948 Process-4  Worker DEBUG    processing request 4
+2019-09-28 16:03:15,948 Process-4  Worker DEBUG    processing request 4
+2019-09-28 16:03:15,948 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,948 Process-4  Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:15,957 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:15,958 MainProcess SampleApp DEBUG    got response: (0, None)
+2019-09-28 16:03:15,958 MainProcess SampleApp DEBUG    got response: (21, 0.21821789023599236)
+2019-09-28 16:03:16,010 Process-11 Worker DEBUG    sending response: (1, 1.0)
+2019-09-28 16:03:16,010 Process-11 Worker DEBUG    sending response: (1, 1.0)
+2019-09-28 16:03:16,011 Process-11 Worker DEBUG    processing request 12
+2019-09-28 16:03:16,011 Process-11 Worker DEBUG    processing request 12
+2019-09-28 16:03:16,011 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:16,011 Process-11 Worker DEBUG    sleeping for 0 ms
+2019-09-28 16:03:16,060 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,061 MainProcess SampleApp DEBUG    got response: (1, 1.0)
+2019-09-28 16:03:16,165 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,267 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,373 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,477 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,579 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,685 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,788 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,818 Process-4  Worker DEBUG    sending response: (4, 0.5)
+2019-09-28 16:03:16,818 Process-4  Worker DEBUG    sending response: (4, 0.5)
+2019-09-28 16:03:16,892 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,893 MainProcess SampleApp DEBUG    got response: (4, 0.5)
+2019-09-28 16:03:16,898 Process-11 Worker DEBUG    sending response: (12, 0.28867513459481287)
+2019-09-28 16:03:16,898 Process-11 Worker DEBUG    sending response: (12, 0.28867513459481287)
+2019-09-28 16:03:16,997 MainProcess SampleApp DEBUG    polling for responses
+2019-09-28 16:03:16,998 MainProcess SampleApp DEBUG    got response: (12, 0.28867513459481287)
+2019-09-28 16:03:17,099 MainProcess SampleApp DEBUG    all work complete!
+2019-09-28 16:03:17,099 MainProcess SampleApp DEBUG    closing workers
+2019-09-28 16:03:17,100 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,100 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,159 Process-2  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,159 Process-2  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,160 Process-2  Worker INFO     worker process exiting
+2019-09-28 16:03:17,160 Process-2  Worker INFO     worker process exiting
+2019-09-28 16:03:17,162 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,162 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,242 Process-3  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,242 Process-3  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,243 Process-3  Worker INFO     worker process exiting
+2019-09-28 16:03:17,243 Process-3  Worker INFO     worker process exiting
+2019-09-28 16:03:17,245 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,245 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,323 Process-4  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,323 Process-4  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,323 Process-4  Worker INFO     worker process exiting
+2019-09-28 16:03:17,323 Process-4  Worker INFO     worker process exiting
+2019-09-28 16:03:17,328 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,328 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,421 Process-5  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,421 Process-5  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,421 Process-5  Worker INFO     worker process exiting
+2019-09-28 16:03:17,421 Process-5  Worker INFO     worker process exiting
+2019-09-28 16:03:17,423 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,424 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,496 Process-6  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,496 Process-6  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,496 Process-6  Worker INFO     worker process exiting
+2019-09-28 16:03:17,496 Process-6  Worker INFO     worker process exiting
+2019-09-28 16:03:17,498 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,498 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,564 Process-7  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,564 Process-7  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,564 Process-7  Worker INFO     worker process exiting
+2019-09-28 16:03:17,564 Process-7  Worker INFO     worker process exiting
+2019-09-28 16:03:17,566 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,567 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,592 Process-8  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,592 Process-8  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,592 Process-8  Worker INFO     worker process exiting
+2019-09-28 16:03:17,592 Process-8  Worker INFO     worker process exiting
+2019-09-28 16:03:17,594 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,594 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,640 Process-9  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,640 Process-9  Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,640 Process-9  Worker INFO     worker process exiting
+2019-09-28 16:03:17,640 Process-9  Worker INFO     worker process exiting
+2019-09-28 16:03:17,642 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,642 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,647 Process-10 Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,647 Process-10 Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,647 Process-10 Worker INFO     worker process exiting
+2019-09-28 16:03:17,647 Process-10 Worker INFO     worker process exiting
+2019-09-28 16:03:17,649 MainProcess Worker DEBUG    sending poison-pill to child
+2019-09-28 16:03:17,649 MainProcess Worker DEBUG    waiting on child to die
+2019-09-28 16:03:17,704 Process-11 Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,704 Process-11 Worker DEBUG    shutdown message received
+2019-09-28 16:03:17,705 Process-11 Worker INFO     worker process exiting
+2019-09-28 16:03:17,705 Process-11 Worker INFO     worker process exiting
+2019-09-28 16:03:17,708 MainProcess SampleApp DEBUG    done
+2019-09-28 16:03:17,709 MainProcess __main__ DEBUG    SampleApp.run completed
+2019-09-28 16:03:17,709 MainProcess __main__ DEBUG    closing logger
+2019-09-28 16:03:17,712 Process-1  root CRITICAL Applog told to shutdown
+2019-09-28 16:03:17,712 Process-1  root CRITICAL Applog shutting down
