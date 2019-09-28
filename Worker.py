@@ -109,9 +109,9 @@ class Worker(object):
             response = (request, value)
 
             # pretend it took awhile
-            sleep_ms = random.randint(100, 1000) / 1000.0
+            sleep_ms = random.randint(100, 1000) 
             log.debug("sleeping for %d ms", sleep_ms)
-            time.sleep(sleep_ms)
+            time.sleep(sleep_ms / 1000.0)
 
             # send back the response
             log.debug("sending response: %s", response)
