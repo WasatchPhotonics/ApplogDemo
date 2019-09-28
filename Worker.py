@@ -97,6 +97,7 @@ class Worker(object):
                 break 
             
             # do something with the request
+            time_last_request = datetime.datetime.now()
             log.debug("processing request %s", request)
             try:
                 value = math.sqrt(request) / request
