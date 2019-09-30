@@ -92,8 +92,8 @@ So really there are just a couple things to do:
 1. instantiate Applog
 2. pass a handle to applog.log_queue to any new processes
 3. call configure_process(log_queue) every time a new process is created
-4. add "import logging ; log = logging.getLogger(__name__)" at the top of every 
-   file you want to debug
+4. add "import logging ; log = logging.getLogger(\_\_name\_\_)" at the top of 
+   every file you want to debug
 
 It's a good idea to call applog.close() when your application's done, but there's 
 a timeout so it should close itself even if you don't remember.
